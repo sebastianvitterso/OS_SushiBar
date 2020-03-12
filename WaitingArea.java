@@ -7,6 +7,7 @@ import java.util.Queue;
 public class WaitingArea {
     private Queue<Customer> customers;
     private int size;
+    private Door door;
     /**
      * Creates a new waiting area.
      * @param size The maximum number of Customers that can be waiting.
@@ -14,19 +15,27 @@ public class WaitingArea {
     public WaitingArea(int size) {
         customers = new ArrayDeque<>();
         this.size = size;
+        door = null;
+    }
+
+    public void setDoor(Door door) {
+        this.door = door;
     }
 
     /**
      * @param customer A customer created by Door, trying to enter the waiting area
      */
-    public synchronized boolean enter(Customer customer) { //throws Exception {
-        if(customers.size() >= size) {
-            // throw new Exception("WaitingArea is full!");
-            return false;
-        } else {
-            customers.add(customer);
-            return true;
-        }
+    public synchronized void enter(Customer customer) { //throws Exception {
+        customers.add(customer);
+        notifyAll();
+    }
+
+    public synchronized boolean isFull() {
+        return customers.size() >= size;
+    }
+
+    public synchronized boolean isEmpty() {
+        return customers.size() == 0;
     }
 
     /**
@@ -42,7 +51,9 @@ public class WaitingArea {
      * @return The customer that is first in line.
      */
     public synchronized Customer fetch() {
-        return customers.poll();
+        Customer customer = customers.poll();
+        notifyAll();
+        return customer;
     }
 
     /**

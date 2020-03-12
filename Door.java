@@ -19,7 +19,6 @@ public class Door implements Runnable {
         return waitingArea;
     }
 
-
     /**
      * This method will run when the door thread is created (and started). The
      * method creates customers at random intervals and tries to put them in the
@@ -27,20 +26,26 @@ public class Door implements Runnable {
      */
     @Override
     public synchronized void run() {
+        waitingArea.setDoor(this);
         while (SushiBar.isOpen) {
             try {
                 wait(SushiBar.doorWait);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-            Customer customer = new Customer();
-            if(waitingArea.enter(customer)) {
-                SushiBar.write(String.format("Door added customer %d to waitingarea", customer.getCustomerID()));
+            while (waitingArea.isFull()) {
+                try {
+                    waitingArea.wait();
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
             }
-
+            Customer customer = new Customer();
+            waitingArea.enter(customer);
+            SushiBar.write(Thread.currentThread().getName() + String.format(": Door added customer %d to waitingarea", customer.getCustomerID()));
         }
 
-        SushiBar.write("*** DOOR IS NOW CLOSED ***");
+        SushiBar.write(Thread.currentThread().getName() + ": *** DOOR IS NOW CLOSED ***");
     }
 
     // Add more methods as you see fit

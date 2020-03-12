@@ -495,3 +495,1240 @@
 11:18:42:626, Door added customer 26 to waitingarea
 11:18:42:697, Thread-4: Customer 6 is now leaving.
 11:18:44:195, *** DOOR IS NOW CLOSED ***
+13:13:53:647, Waitress fetched customer 0
+13:13:53:647, Door added customer 0 to waitingarea
+13:13:53:787, Thread-1: Customer 0 is now eating.
+13:13:53:848, Waitress fetched customer 1
+13:13:53:848, Door added customer 1 to waitingarea
+13:13:53:913, Thread-3: Customer 1 is now eating.
+13:13:53:974, Waitress fetched customer 2
+13:13:53:980, Door added customer 2 to waitingarea
+13:13:54:41, Thread-6: Customer 2 is now eating.
+13:13:54:106, Waitress fetched customer 3
+13:13:54:116, Door added customer 3 to waitingarea
+13:13:54:183, Thread-0: Customer 3 is now eating.
+13:13:54:242, Waitress fetched customer 4
+13:13:54:242, Door added customer 4 to waitingarea
+13:13:54:318, Thread-4: Customer 4 is now eating.
+13:13:54:375, Waitress fetched customer 5
+13:13:54:375, Door added customer 5 to waitingarea
+13:13:54:440, Thread-5: Customer 5 is now eating.
+13:13:54:504, Waitress fetched customer 6
+13:13:54:504, Door added customer 6 to waitingarea
+13:13:54:566, Thread-2: Customer 6 is now eating.
+13:13:54:628, Door added customer 7 to waitingarea
+13:13:54:753, Door added customer 8 to waitingarea
+13:13:54:878, Door added customer 9 to waitingarea
+13:13:55:03, Door added customer 10 to waitingarea
+13:13:55:131, Door added customer 11 to waitingarea
+13:13:55:258, Door added customer 12 to waitingarea
+13:13:55:383, Door added customer 13 to waitingarea
+13:13:55:508, Door added customer 14 to waitingarea
+13:13:55:633, Door added customer 15 to waitingarea
+13:13:55:760, Door added customer 16 to waitingarea
+13:13:55:883, Door added customer 17 to waitingarea
+13:13:56:10, Door added customer 18 to waitingarea
+13:13:56:133, Door added customer 19 to waitingarea
+13:13:56:259, Door added customer 20 to waitingarea
+13:13:56:291, Thread-1: Customer 0 is now leaving.
+13:13:56:300, Waitress let customer 0 go
+13:13:56:302, Waitress fetched customer 7
+13:13:56:365, Thread-1: Customer 7 is now eating.
+13:13:56:382, Door added customer 21 to waitingarea
+13:13:56:417, Thread-3: Customer 1 is now leaving.
+13:13:56:421, Waitress let customer 1 go
+13:13:56:437, Waitress fetched customer 8
+13:13:56:499, Thread-3: Customer 8 is now eating.
+13:13:56:505, Door added customer 22 to waitingarea
+13:13:56:548, Thread-6: Customer 2 is now leaving.
+13:13:56:551, Waitress let customer 2 go
+13:13:56:554, Waitress fetched customer 9
+13:13:56:617, Thread-6: Customer 9 is now eating.
+13:13:56:629, Door added customer 23 to waitingarea
+13:13:56:688, Thread-0: Customer 3 is now leaving.
+13:13:56:690, Waitress let customer 3 go
+13:13:56:692, Waitress fetched customer 10
+13:13:56:755, Door added customer 24 to waitingarea
+13:13:56:767, Thread-0: Customer 10 is now eating.
+13:13:56:836, Thread-4: Customer 4 is now leaving.
+13:13:56:839, Waitress let customer 4 go
+13:13:56:841, Waitress fetched customer 11
+13:13:56:876, Door added customer 25 to waitingarea
+13:13:56:903, Thread-4: Customer 11 is now eating.
+13:13:56:943, Thread-5: Customer 5 is now leaving.
+13:13:56:950, Waitress let customer 5 go
+13:13:56:953, Waitress fetched customer 12
+13:13:57:04, Door added customer 26 to waitingarea
+13:13:57:16, Thread-5: Customer 12 is now eating.
+13:13:57:70, Thread-2: Customer 6 is now leaving.
+13:13:57:72, Waitress let customer 6 go
+13:13:57:74, Waitress fetched customer 13
+13:13:57:128, Door added customer 27 to waitingarea
+13:13:57:137, Thread-2: Customer 13 is now eating.
+13:13:57:250, Door added customer 28 to waitingarea
+13:13:57:373, Door added customer 29 to waitingarea
+13:13:57:495, Door added customer 30 to waitingarea
+13:13:57:619, Door added customer 31 to waitingarea
+13:13:57:742, Door added customer 32 to waitingarea
+13:13:57:867, Door added customer 33 to waitingarea
+13:13:58:473, *** DOOR IS NOW CLOSED ***
+13:13:58:869, Thread-1: Customer 7 is now leaving.
+13:13:58:873, Waitress let customer 7 go
+13:13:58:883, Waitress fetched customer 14
+13:13:58:946, Thread-1: Customer 14 is now eating.
+13:13:59:03, Thread-3: Customer 8 is now leaving.
+13:13:59:05, Waitress let customer 8 go
+13:13:59:07, Waitress fetched customer 15
+13:13:59:68, Thread-3: Customer 15 is now eating.
+13:13:59:121, Thread-6: Customer 9 is now leaving.
+13:13:59:123, Waitress let customer 9 go
+13:13:59:125, Waitress fetched customer 16
+13:13:59:186, Thread-6: Customer 16 is now eating.
+13:13:59:268, Thread-0: Customer 10 is now leaving.
+13:13:59:270, Waitress let customer 10 go
+13:13:59:272, Waitress fetched customer 17
+13:13:59:333, Thread-0: Customer 17 is now eating.
+13:13:59:409, Thread-4: Customer 11 is now leaving.
+13:13:59:413, Waitress let customer 11 go
+13:13:59:420, Waitress fetched customer 18
+13:13:59:484, Thread-4: Customer 18 is now eating.
+13:13:59:518, Thread-5: Customer 12 is now leaving.
+13:13:59:523, Waitress let customer 12 go
+13:13:59:525, Waitress fetched customer 19
+13:13:59:587, Thread-5: Customer 19 is now eating.
+13:13:59:639, Thread-2: Customer 13 is now leaving.
+13:13:59:641, Waitress let customer 13 go
+13:13:59:643, Waitress fetched customer 20
+13:13:59:705, Thread-2: Customer 20 is now eating.
+13:14:01:450, Thread-1: Customer 14 is now leaving.
+13:14:01:455, Waitress let customer 14 go
+13:14:01:465, Waitress fetched customer 21
+13:14:01:528, Thread-1: Customer 21 is now eating.
+13:14:01:570, Thread-3: Customer 15 is now leaving.
+13:14:01:572, Waitress let customer 15 go
+13:14:01:573, Waitress fetched customer 22
+13:14:01:635, Thread-3: Customer 22 is now eating.
+13:14:01:689, Thread-6: Customer 16 is now leaving.
+13:14:01:691, Waitress let customer 16 go
+13:14:01:692, Waitress fetched customer 23
+13:14:01:754, Thread-6: Customer 23 is now eating.
+13:14:01:835, Thread-0: Customer 17 is now leaving.
+13:14:01:837, Waitress let customer 17 go
+13:14:01:839, Waitress fetched customer 24
+13:14:01:901, Thread-0: Customer 24 is now eating.
+13:14:01:989, Thread-4: Customer 18 is now leaving.
+13:14:01:990, Waitress let customer 18 go
+13:14:01:994, Waitress fetched customer 25
+13:14:02:64, Thread-4: Customer 25 is now eating.
+13:14:02:91, Thread-5: Customer 19 is now leaving.
+13:14:02:94, Waitress let customer 19 go
+13:14:02:99, Waitress fetched customer 26
+13:14:02:166, Thread-5: Customer 26 is now eating.
+13:14:02:208, Thread-2: Customer 20 is now leaving.
+13:14:02:211, Waitress let customer 20 go
+13:14:02:222, Waitress fetched customer 27
+13:14:02:287, Thread-2: Customer 27 is now eating.
+13:14:04:30, Thread-1: Customer 21 is now leaving.
+13:14:04:32, Waitress let customer 21 go
+13:14:04:33, Waitress fetched customer 28
+13:14:04:96, Thread-1: Customer 28 is now eating.
+13:14:04:138, Thread-3: Customer 22 is now leaving.
+13:14:04:141, Waitress let customer 22 go
+13:14:04:142, Waitress fetched customer 29
+13:14:04:204, Thread-3: Customer 29 is now eating.
+13:14:04:256, Thread-6: Customer 23 is now leaving.
+13:14:04:258, Waitress let customer 23 go
+13:14:04:260, Waitress fetched customer 30
+13:14:04:321, Thread-6: Customer 30 is now eating.
+13:14:04:405, Thread-0: Customer 24 is now leaving.
+13:14:04:407, Waitress let customer 24 go
+13:14:04:409, Waitress fetched customer 31
+13:14:04:471, Thread-0: Customer 31 is now eating.
+13:14:04:566, Thread-4: Customer 25 is now leaving.
+13:14:04:568, Waitress let customer 25 go
+13:14:04:570, Waitress fetched customer 32
+13:14:04:632, Thread-4: Customer 32 is now eating.
+13:14:04:671, Thread-5: Customer 26 is now leaving.
+13:14:04:674, Waitress let customer 26 go
+13:14:04:677, Waitress fetched customer 33
+13:14:04:738, Thread-5: Customer 33 is now eating.
+13:14:04:791, Thread-2: Customer 27 is now leaving.
+13:14:04:795, Waitress let customer 27 go
+13:14:06:598, Thread-1: Customer 28 is now leaving.
+13:14:06:601, Waitress let customer 28 go
+13:14:06:706, Thread-3: Customer 29 is now leaving.
+13:14:06:708, Waitress let customer 29 go
+13:14:06:823, Thread-6: Customer 30 is now leaving.
+13:14:06:825, Waitress let customer 30 go
+13:14:06:975, Thread-0: Customer 31 is now leaving.
+13:14:06:982, Waitress let customer 31 go
+13:14:07:135, Thread-4: Customer 32 is now leaving.
+13:14:07:139, Waitress let customer 32 go
+13:14:07:240, Thread-5: Customer 33 is now leaving.
+13:14:07:242, Waitress let customer 33 go
+14:58:37:278, Waitress fetched customer 0
+14:58:37:303, Door added customer 0 to waitingarea
+14:58:37:386, Waitress fetched customer 0
+14:58:37:386, Door added customer 0 to waitingarea
+14:58:37:439, Waitress fetched customer 0
+14:58:37:441, Door added customer 0 to waitingarea
+14:58:37:456, Thread-3: Customer 0 is now eating.
+14:58:37:486, Waitress fetched customer 0
+14:58:37:486, Door added customer 0 to waitingarea
+14:58:37:501, Thread-5: Customer 0 is now eating.
+14:58:37:544, Door added customer 0 to waitingarea
+14:58:37:544, Waitress fetched customer 0
+14:58:37:578, Door added customer 0 to waitingarea
+14:58:37:578, Waitress fetched customer 0
+14:58:37:581, Thread-0: Customer 0 is now eating.
+14:58:37:599, Door added customer 0 to waitingarea
+14:58:37:599, Waitress fetched customer 0
+14:58:37:615, Thread-1: Customer 0 is now eating.
+14:58:37:629, Door added customer 0 to waitingarea
+14:58:37:638, Thread-2: Customer 0 is now eating.
+14:58:37:654, Door added customer 0 to waitingarea
+14:58:37:658, Door added customer 0 to waitingarea
+14:58:37:661, Door added customer 0 to waitingarea
+14:58:37:666, Door added customer 0 to waitingarea
+14:58:37:687, Thread-4: Customer 0 is now eating.
+14:58:37:694, Thread-6: Customer 0 is now eating.
+14:58:37:694, Door added customer 0 to waitingarea
+14:58:37:723, Door added customer 0 to waitingarea
+14:58:37:726, Door added customer 0 to waitingarea
+14:58:37:727, Door added customer 0 to waitingarea
+14:58:37:731, Door added customer 0 to waitingarea
+14:58:37:753, Door added customer 0 to waitingarea
+14:58:37:757, Door added customer 0 to waitingarea
+14:58:37:760, Door added customer 0 to waitingarea
+14:58:37:765, Door added customer 0 to waitingarea
+14:58:37:780, Door added customer 0 to waitingarea
+14:58:37:794, Door added customer 0 to waitingarea
+14:58:37:812, Door added customer 0 to waitingarea
+14:58:37:828, Door added customer 0 to waitingarea
+14:58:37:844, Door added customer 0 to waitingarea
+14:58:37:850, Door added customer 0 to waitingarea
+14:58:40:03, Thread-3: Customer 0 is now leaving.
+14:58:40:05, Waitress let customer 0 go
+14:58:40:08, Waitress fetched customer 0
+14:58:40:50, Door added customer 18 to waitingarea
+14:58:40:73, Thread-3: Customer 0 is now eating.
+14:58:40:81, Thread-5: Customer 0 is now leaving.
+14:58:40:87, Waitress let customer 0 go
+14:58:40:92, Waitress fetched customer 0
+14:58:40:104, Thread-0: Customer 0 is now leaving.
+14:58:40:110, Waitress let customer 0 go
+14:58:40:120, Waitress fetched customer 0
+14:58:40:128, Thread-1: Customer 0 is now leaving.
+14:58:40:132, Waitress let customer 0 go
+14:58:40:142, Waitress fetched customer 0
+14:58:40:155, Thread-5: Customer 0 is now eating.
+14:58:40:161, Thread-2: Customer 0 is now leaving.
+14:58:40:175, Waitress let customer 0 go
+14:58:40:179, Door added customer 19 to waitingarea
+14:58:40:180, Waitress fetched customer 0
+14:58:40:185, Thread-0: Customer 0 is now eating.
+14:58:40:194, Door added customer 19 to waitingarea
+14:58:40:197, Thread-4: Customer 0 is now leaving.
+14:58:40:210, Door added customer 19 to waitingarea
+14:58:40:213, Waitress let customer 0 go
+14:58:40:214, Thread-1: Customer 0 is now eating.
+14:58:40:219, Door added customer 19 to waitingarea
+14:58:40:231, Waitress fetched customer 0
+14:58:40:247, Thread-6: Customer 0 is now leaving.
+14:58:40:263, Door added customer 19 to waitingarea
+14:58:40:266, Thread-2: Customer 0 is now eating.
+14:58:40:267, Waitress let customer 0 go
+14:58:40:290, Waitress fetched customer 0
+14:58:40:323, Thread-4: Customer 0 is now eating.
+14:58:40:354, Thread-6: Customer 0 is now eating.
+14:58:40:409, Door added customer 20 to waitingarea
+14:58:42:99, *** DOOR IS NOW CLOSED ***
+14:58:42:578, Thread-3: Customer 0 is now leaving.
+14:58:42:581, Waitress let customer 0 go
+14:58:42:588, Waitress fetched customer 0
+14:58:42:653, Thread-3: Customer 0 is now eating.
+14:58:42:661, Thread-5: Customer 0 is now leaving.
+14:58:42:663, Waitress let customer 0 go
+14:58:42:666, Waitress fetched customer 0
+14:58:42:695, Thread-0: Customer 0 is now leaving.
+14:58:42:697, Waitress let customer 0 go
+14:58:42:709, Waitress fetched customer 0
+14:58:42:737, Thread-5: Customer 0 is now eating.
+14:58:42:747, Thread-1: Customer 0 is now leaving.
+14:58:42:754, Waitress let customer 0 go
+14:58:42:758, Waitress fetched customer 0
+14:58:42:772, Thread-0: Customer 0 is now eating.
+14:58:42:790, Thread-2: Customer 0 is now leaving.
+14:58:42:793, Waitress let customer 0 go
+14:58:42:796, Waitress fetched customer 0
+14:58:42:822, Thread-1: Customer 0 is now eating.
+14:58:42:830, Thread-4: Customer 0 is now leaving.
+14:58:42:840, Waitress let customer 0 go
+14:58:42:844, Waitress fetched customer 0
+14:58:42:866, Thread-6: Customer 0 is now leaving.
+14:58:42:875, Thread-2: Customer 0 is now eating.
+14:58:42:878, Waitress let customer 0 go
+14:58:42:882, Waitress fetched customer 0
+14:58:42:907, Thread-4: Customer 0 is now eating.
+14:58:42:956, Thread-6: Customer 0 is now eating.
+14:58:45:155, Thread-3: Customer 0 is now leaving.
+14:58:45:157, Waitress let customer 0 go
+14:58:45:159, Waitress fetched customer 0
+14:58:45:221, Thread-3: Customer 0 is now eating.
+14:58:45:242, Thread-5: Customer 0 is now leaving.
+14:58:45:244, Waitress let customer 0 go
+14:58:45:245, Waitress fetched customer 0
+14:58:45:277, Thread-0: Customer 0 is now leaving.
+14:58:45:279, Waitress let customer 0 go
+14:58:45:280, Waitress fetched customer 0
+14:58:45:308, Thread-5: Customer 0 is now eating.
+14:58:45:330, Thread-1: Customer 0 is now leaving.
+14:58:45:342, Waitress let customer 0 go
+14:58:45:345, Waitress fetched customer 0
+14:58:45:347, Thread-0: Customer 0 is now eating.
+14:58:45:380, Thread-2: Customer 0 is now leaving.
+14:58:45:393, Waitress let customer 0 go
+14:58:45:400, Waitress fetched customer 0
+14:58:45:408, Thread-1: Customer 0 is now eating.
+14:58:45:416, Thread-4: Customer 0 is now leaving.
+14:58:45:420, Waitress let customer 0 go
+14:58:45:423, Waitress fetched customer 0
+14:58:45:461, Thread-6: Customer 0 is now leaving.
+14:58:45:464, Waitress let customer 0 go
+14:58:45:473, Waitress fetched customer 18
+14:58:45:475, Thread-2: Customer 0 is now eating.
+14:58:45:487, Thread-4: Customer 0 is now eating.
+14:58:45:537, Thread-6: Customer 18 is now eating.
+14:58:47:723, Thread-3: Customer 0 is now leaving.
+14:58:47:726, Waitress let customer 0 go
+14:58:47:735, Waitress fetched customer 19
+14:58:47:798, Thread-3: Customer 19 is now eating.
+14:58:47:812, Thread-5: Customer 0 is now leaving.
+14:58:47:814, Waitress let customer 0 go
+14:58:47:822, Waitress fetched customer 19
+14:58:47:860, Thread-0: Customer 0 is now leaving.
+14:58:47:864, Waitress let customer 0 go
+14:58:47:879, Waitress fetched customer 19
+14:58:47:885, Thread-5: Customer 19 is now eating.
+14:58:47:916, Thread-1: Customer 0 is now leaving.
+14:58:47:929, Waitress let customer 0 go
+14:58:47:933, Waitress fetched customer 19
+14:58:47:943, Thread-0: Customer 19 is now eating.
+14:58:47:979, Thread-2: Customer 0 is now leaving.
+14:58:47:983, Waitress let customer 0 go
+14:58:47:991, Waitress fetched customer 19
+14:58:47:993, Thread-4: Customer 0 is now leaving.
+14:58:47:996, Waitress let customer 0 go
+14:58:48:03, Thread-1: Customer 19 is now eating.
+14:58:48:16, Waitress fetched customer 20
+14:58:48:42, Thread-6: Customer 18 is now leaving.
+14:58:48:47, Waitress let customer 18 go
+14:58:48:55, Thread-2: Customer 19 is now eating.
+14:58:48:88, Thread-4: Customer 20 is now eating.
+14:58:50:302, Thread-3: Customer 19 is now leaving.
+14:58:50:310, Waitress let customer 19 go
+14:58:50:395, Thread-5: Customer 19 is now leaving.
+14:58:50:413, Waitress let customer 19 go
+14:58:50:446, Thread-0: Customer 19 is now leaving.
+14:58:50:470, Waitress let customer 19 go
+14:58:50:516, Thread-1: Customer 19 is now leaving.
+14:58:50:708, Thread-2: Customer 19 is now leaving.
+14:58:50:710, Waitress let customer 19 go
+14:58:50:723, Waitress let customer 19 go
+14:58:50:841, Thread-4: Customer 20 is now leaving.
+14:58:50:843, Waitress let customer 20 go
+14:58:50:845, Total number of orders: 478
+14:58:50:848, Orders eaten here: 213
+14:58:50:858, Orders taken out: 265
+14:59:32:850, Waitress fetched customer 0
+14:59:32:848, Door added customer 0 to waitingarea
+14:59:32:913, Door added customer 0 to waitingarea
+14:59:32:913, Waitress fetched customer 0
+14:59:32:919, Waitress fetched customer 0
+14:59:32:922, Door added customer 0 to waitingarea
+14:59:32:942, Waitress fetched customer 0
+14:59:32:946, Door added customer 0 to waitingarea
+14:59:32:958, Waitress fetched customer 0
+14:59:32:959, Door added customer 0 to waitingarea
+14:59:32:971, Door added customer 0 to waitingarea
+14:59:32:971, Waitress fetched customer 0
+14:59:32:973, Door added customer 0 to waitingarea
+14:59:32:973, Waitress fetched customer 0
+14:59:32:975, Door added customer 0 to waitingarea
+14:59:32:977, Thread-4: Customer 0 is now eating.
+14:59:32:984, Door added customer 0 to waitingarea
+14:59:32:986, Thread-3: Customer 0 is now eating.
+14:59:32:990, Door added customer 0 to waitingarea
+14:59:32:993, Door added customer 0 to waitingarea
+14:59:33:01, Thread-2: Customer 0 is now eating.
+14:59:33:02, Door added customer 0 to waitingarea
+14:59:33:07, Door added customer 0 to waitingarea
+14:59:33:09, Door added customer 0 to waitingarea
+14:59:33:14, Thread-0: Customer 0 is now eating.
+14:59:33:19, Door added customer 0 to waitingarea
+14:59:33:21, Door added customer 0 to waitingarea
+14:59:33:23, Door added customer 0 to waitingarea
+14:59:33:25, Door added customer 0 to waitingarea
+14:59:33:29, Thread-6: Customer 0 is now eating.
+14:59:33:29, Door added customer 0 to waitingarea
+14:59:33:35, Door added customer 0 to waitingarea
+14:59:33:37, Thread-5: Customer 0 is now eating.
+14:59:33:38, Door added customer 0 to waitingarea
+14:59:33:40, Thread-1: Customer 0 is now eating.
+14:59:33:41, Door added customer 0 to waitingarea
+14:59:33:42, Door added customer 0 to waitingarea
+14:59:33:51, Door added customer 0 to waitingarea
+14:59:33:54, Door added customer 0 to waitingarea
+14:59:33:56, Door added customer 0 to waitingarea
+14:59:33:58, Door added customer 0 to waitingarea
+14:59:35:485, Thread-4: Customer 0 is now leaving.
+14:59:35:500, Thread-3: Customer 0 is now leaving.
+14:59:35:500, Waitress let customer 0 go
+14:59:35:502, Waitress fetched customer 0
+14:59:35:502, Waitress let customer 0 go
+14:59:35:505, Waitress fetched customer 0
+14:59:35:505, Thread-2: Customer 0 is now leaving.
+14:59:35:507, Waitress let customer 0 go
+14:59:35:509, Waitress fetched customer 0
+14:59:35:520, Thread-0: Customer 0 is now leaving.
+14:59:35:524, Waitress let customer 0 go
+14:59:35:526, Waitress fetched customer 0
+14:59:35:534, Thread-6: Customer 0 is now leaving.
+14:59:35:540, Waitress let customer 0 go
+14:59:35:540, Thread-5: Customer 0 is now leaving.
+14:59:35:542, Waitress fetched customer 0
+14:59:35:550, Thread-1: Customer 0 is now leaving.
+14:59:35:551, Waitress let customer 0 go
+14:59:35:557, Waitress let customer 0 go
+14:59:35:558, Waitress fetched customer 0
+14:59:35:560, Waitress fetched customer 0
+14:59:35:565, Thread-4: Customer 0 is now eating.
+14:59:35:571, Thread-3: Customer 0 is now eating.
+14:59:35:577, Thread-2: Customer 0 is now eating.
+14:59:35:592, Door added customer 21 to waitingarea
+14:59:35:595, Thread-0: Customer 0 is now eating.
+14:59:35:604, Door added customer 21 to waitingarea
+14:59:35:607, Door added customer 21 to waitingarea
+14:59:35:609, Door added customer 21 to waitingarea
+14:59:35:614, Thread-6: Customer 0 is now eating.
+14:59:35:624, Door added customer 21 to waitingarea
+14:59:35:625, Thread-5: Customer 0 is now eating.
+14:59:35:629, Door added customer 21 to waitingarea
+14:59:35:639, Thread-1: Customer 0 is now eating.
+14:59:35:639, Door added customer 21 to waitingarea
+15:00:28:628, Door added customer 0 to waitingarea
+15:00:28:626, Waitress fetched customer 0
+15:00:28:751, Thread-3: Customer 0 is now eating.
+15:00:28:805, Waitress fetched customer 1
+15:00:28:805, Door added customer 1 to waitingarea
+15:00:28:878, Thread-1: Customer 1 is now eating.
+15:00:28:938, Waitress fetched customer 2
+15:00:28:946, Door added customer 2 to waitingarea
+15:00:29:06, Thread-4: Customer 2 is now eating.
+15:00:29:74, Waitress fetched customer 3
+15:00:29:75, Door added customer 3 to waitingarea
+15:00:29:137, Thread-5: Customer 3 is now eating.
+15:00:29:205, Waitress fetched customer 4
+15:00:29:210, Door added customer 4 to waitingarea
+15:00:29:271, Thread-2: Customer 4 is now eating.
+15:00:29:335, Waitress fetched customer 5
+15:00:29:335, Door added customer 5 to waitingarea
+15:00:29:398, Thread-6: Customer 5 is now eating.
+15:00:29:459, Door added customer 6 to waitingarea
+15:00:29:459, Waitress fetched customer 6
+15:00:29:526, Thread-0: Customer 6 is now eating.
+15:00:29:583, Door added customer 7 to waitingarea
+15:00:29:707, Door added customer 8 to waitingarea
+15:00:29:834, Door added customer 9 to waitingarea
+15:00:29:960, Door added customer 10 to waitingarea
+15:00:30:85, Door added customer 11 to waitingarea
+15:00:30:209, Door added customer 12 to waitingarea
+15:00:30:336, Door added customer 13 to waitingarea
+15:00:30:462, Door added customer 14 to waitingarea
+15:00:30:589, Door added customer 15 to waitingarea
+15:00:30:714, Door added customer 16 to waitingarea
+15:00:30:837, Door added customer 17 to waitingarea
+15:00:30:959, Door added customer 18 to waitingarea
+15:00:31:82, Door added customer 19 to waitingarea
+15:00:31:204, Door added customer 20 to waitingarea
+15:00:31:254, Thread-3: Customer 0 is now leaving.
+15:00:31:256, Waitress let customer 0 go
+15:00:31:263, Waitress fetched customer 7
+15:00:31:325, Thread-3: Customer 7 is now eating.
+15:00:31:332, Door added customer 21 to waitingarea
+15:00:31:383, Thread-1: Customer 1 is now leaving.
+15:00:31:397, Waitress let customer 1 go
+15:00:31:399, Waitress fetched customer 8
+15:00:31:456, Door added customer 22 to waitingarea
+15:00:31:462, Thread-1: Customer 8 is now eating.
+15:00:31:511, Thread-4: Customer 2 is now leaving.
+15:00:31:517, Waitress let customer 2 go
+15:00:31:544, Waitress fetched customer 9
+15:00:31:583, Door added customer 23 to waitingarea
+15:00:31:613, Thread-4: Customer 9 is now eating.
+15:00:31:651, Thread-5: Customer 3 is now leaving.
+15:00:31:653, Waitress let customer 3 go
+15:00:31:655, Waitress fetched customer 10
+15:00:31:704, Door added customer 24 to waitingarea
+15:00:31:717, Thread-5: Customer 10 is now eating.
+15:00:31:779, Thread-2: Customer 4 is now leaving.
+15:00:31:781, Waitress let customer 4 go
+15:00:31:783, Waitress fetched customer 11
+15:00:31:826, Door added customer 25 to waitingarea
+15:00:31:847, Thread-2: Customer 11 is now eating.
+15:00:31:902, Thread-6: Customer 5 is now leaving.
+15:00:31:905, Waitress let customer 5 go
+15:00:31:909, Waitress fetched customer 12
+15:00:31:949, Door added customer 26 to waitingarea
+15:00:31:973, Thread-6: Customer 12 is now eating.
+15:00:32:38, Thread-0: Customer 6 is now leaving.
+15:00:32:41, Waitress let customer 6 go
+15:00:32:50, Waitress fetched customer 13
+15:00:32:72, Door added customer 27 to waitingarea
+15:00:32:113, Thread-0: Customer 13 is now eating.
+15:00:32:203, Door added customer 28 to waitingarea
+15:00:32:335, Door added customer 29 to waitingarea
+15:00:32:464, Door added customer 30 to waitingarea
+15:00:32:593, Door added customer 31 to waitingarea
+15:00:32:721, Door added customer 32 to waitingarea
+15:00:32:852, Door added customer 33 to waitingarea
+15:00:33:828, Thread-3: Customer 7 is now leaving.
+15:00:33:830, Waitress let customer 7 go
+15:00:33:834, Waitress fetched customer 14
+15:00:33:836, Door added customer 34 to waitingarea
+15:00:33:838, *** DOOR IS NOW CLOSED ***
+15:00:33:898, Thread-3: Customer 14 is now eating.
+15:00:33:964, Thread-1: Customer 8 is now leaving.
+15:00:33:966, Waitress let customer 8 go
+15:00:33:968, Waitress fetched customer 15
+15:00:34:30, Thread-1: Customer 15 is now eating.
+15:00:34:117, Thread-4: Customer 9 is now leaving.
+15:00:34:126, Waitress let customer 9 go
+15:00:34:134, Waitress fetched customer 16
+15:00:34:197, Thread-4: Customer 16 is now eating.
+15:00:34:219, Thread-5: Customer 10 is now leaving.
+15:00:34:221, Waitress let customer 10 go
+15:00:34:222, Waitress fetched customer 17
+15:00:34:284, Thread-5: Customer 17 is now eating.
+15:00:34:351, Thread-2: Customer 11 is now leaving.
+15:00:34:354, Waitress let customer 11 go
+15:00:34:357, Waitress fetched customer 18
+15:00:34:425, Thread-2: Customer 18 is now eating.
+15:00:34:483, Thread-6: Customer 12 is now leaving.
+15:00:34:484, Waitress let customer 12 go
+15:00:34:486, Waitress fetched customer 19
+15:00:34:549, Thread-6: Customer 19 is now eating.
+15:00:34:615, Thread-0: Customer 13 is now leaving.
+15:00:34:618, Waitress let customer 13 go
+15:00:34:621, Waitress fetched customer 20
+15:00:34:683, Thread-0: Customer 20 is now eating.
+15:00:36:401, Thread-3: Customer 14 is now leaving.
+15:00:36:403, Waitress let customer 14 go
+15:00:36:405, Waitress fetched customer 21
+15:00:36:467, Thread-3: Customer 21 is now eating.
+15:00:36:532, Thread-1: Customer 15 is now leaving.
+15:00:36:535, Waitress let customer 15 go
+15:00:36:537, Waitress fetched customer 22
+15:00:36:598, Thread-1: Customer 22 is now eating.
+15:00:36:699, Thread-4: Customer 16 is now leaving.
+15:00:36:702, Waitress let customer 16 go
+15:00:36:707, Waitress fetched customer 23
+15:00:36:777, Thread-4: Customer 23 is now eating.
+15:00:36:786, Thread-5: Customer 17 is now leaving.
+15:00:36:788, Waitress let customer 17 go
+15:00:36:790, Waitress fetched customer 24
+15:00:36:852, Thread-5: Customer 24 is now eating.
+15:00:36:930, Thread-2: Customer 18 is now leaving.
+15:00:36:932, Waitress let customer 18 go
+15:00:36:939, Waitress fetched customer 25
+15:00:37:08, Thread-2: Customer 25 is now eating.
+15:00:37:51, Thread-6: Customer 19 is now leaving.
+15:00:37:54, Waitress let customer 19 go
+15:00:37:56, Waitress fetched customer 26
+15:00:37:120, Thread-6: Customer 26 is now eating.
+15:00:37:185, Thread-0: Customer 20 is now leaving.
+15:00:37:187, Waitress let customer 20 go
+15:00:37:193, Waitress fetched customer 27
+15:00:37:261, Thread-0: Customer 27 is now eating.
+15:00:38:970, Thread-3: Customer 21 is now leaving.
+15:00:38:972, Waitress let customer 21 go
+15:00:38:974, Waitress fetched customer 28
+15:00:39:36, Thread-3: Customer 28 is now eating.
+15:00:39:100, Thread-1: Customer 22 is now leaving.
+15:00:39:102, Waitress let customer 22 go
+15:00:39:104, Waitress fetched customer 29
+15:00:39:166, Thread-1: Customer 29 is now eating.
+15:00:39:280, Thread-4: Customer 23 is now leaving.
+15:00:39:290, Waitress let customer 23 go
+15:00:39:301, Waitress fetched customer 30
+15:00:39:355, Thread-5: Customer 24 is now leaving.
+15:00:39:357, Waitress let customer 24 go
+15:00:39:359, Waitress fetched customer 31
+15:00:39:364, Thread-4: Customer 30 is now eating.
+15:00:39:421, Thread-5: Customer 31 is now eating.
+15:00:39:511, Thread-2: Customer 25 is now leaving.
+15:00:39:517, Waitress let customer 25 go
+15:00:39:534, Waitress fetched customer 32
+15:00:39:598, Thread-2: Customer 32 is now eating.
+15:00:39:622, Thread-6: Customer 26 is now leaving.
+15:00:39:624, Waitress let customer 26 go
+15:00:39:626, Waitress fetched customer 33
+15:00:39:690, Thread-6: Customer 33 is now eating.
+15:00:39:764, Thread-0: Customer 27 is now leaving.
+15:00:39:766, Waitress let customer 27 go
+15:00:39:768, Waitress fetched customer 34
+15:00:39:831, Thread-0: Customer 34 is now eating.
+15:00:41:540, Thread-3: Customer 28 is now leaving.
+15:00:41:547, Waitress let customer 28 go
+15:00:41:669, Thread-1: Customer 29 is now leaving.
+15:00:41:671, Waitress let customer 29 go
+15:00:41:866, Thread-4: Customer 30 is now leaving.
+15:00:41:874, Waitress let customer 30 go
+15:00:41:924, Thread-5: Customer 31 is now leaving.
+15:00:41:926, Waitress let customer 31 go
+15:00:42:100, Thread-2: Customer 32 is now leaving.
+15:00:42:112, Waitress let customer 32 go
+15:00:42:198, Thread-6: Customer 33 is now leaving.
+15:00:42:204, Waitress let customer 33 go
+15:00:42:333, Thread-0: Customer 34 is now leaving.
+15:00:42:336, Waitress let customer 34 go
+15:00:42:339, Total number of orders: 422
+15:00:42:344, Orders eaten here: 208
+15:00:42:355, Orders taken out: 214
+15:01:06:543, Door added customer 0 to waitingarea
+15:01:06:544, Waitress fetched customer 0
+15:01:06:684, Thread-2: Customer 0 is now eating.
+15:01:06:738, Waitress fetched customer 1
+15:01:06:738, Door added customer 1 to waitingarea
+15:01:06:825, Thread-6: Customer 1 is now eating.
+15:01:06:885, Waitress fetched customer 2
+15:01:06:889, Door added customer 2 to waitingarea
+15:01:06:957, Thread-1: Customer 2 is now eating.
+15:01:07:15, Waitress fetched customer 3
+15:01:07:16, Door added customer 3 to waitingarea
+15:01:07:91, Thread-3: Customer 3 is now eating.
+15:01:07:162, Door added customer 4 to waitingarea
+15:01:07:162, Waitress fetched customer 4
+15:01:07:226, Thread-4: Customer 4 is now eating.
+15:01:07:295, Waitress fetched customer 5
+15:01:07:295, Door added customer 5 to waitingarea
+15:01:07:367, Thread-0: Customer 5 is now eating.
+15:01:07:427, Door added customer 6 to waitingarea
+15:01:07:427, Waitress fetched customer 6
+15:01:07:490, Thread-5: Customer 6 is now eating.
+15:01:07:551, Door added customer 7 to waitingarea
+15:01:07:675, Door added customer 8 to waitingarea
+15:01:07:797, Door added customer 9 to waitingarea
+15:01:07:923, Door added customer 10 to waitingarea
+15:01:08:53, Door added customer 11 to waitingarea
+15:01:08:182, Door added customer 12 to waitingarea
+15:01:08:313, Door added customer 13 to waitingarea
+15:01:08:444, Door added customer 14 to waitingarea
+15:01:08:578, Door added customer 15 to waitingarea
+15:01:08:706, Door added customer 16 to waitingarea
+15:01:08:836, Door added customer 17 to waitingarea
+15:01:08:968, Door added customer 18 to waitingarea
+15:01:09:96, Door added customer 19 to waitingarea
+15:01:09:224, Door added customer 20 to waitingarea
+15:01:09:265, Thread-2: Customer 0 is now leaving.
+15:01:09:280, Waitress let customer 0 go
+15:01:09:285, Waitress fetched customer 7
+15:01:09:337, Thread-6: Customer 1 is now leaving.
+15:01:09:341, Waitress let customer 1 go
+15:01:09:343, Waitress fetched customer 8
+15:01:09:350, Door added customer 21 to waitingarea
+15:01:09:351, Thread-2: Customer 7 is now eating.
+15:01:09:427, Thread-6: Customer 8 is now eating.
+15:01:09:462, Thread-1: Customer 2 is now leaving.
+15:01:09:464, Waitress let customer 2 go
+15:01:09:471, Waitress fetched customer 9
+15:01:09:482, Door added customer 22 to waitingarea
+15:01:09:536, Thread-1: Customer 9 is now eating.
+15:01:09:594, Thread-3: Customer 3 is now leaving.
+15:01:09:596, Waitress let customer 3 go
+15:01:09:598, Waitress fetched customer 10
+15:01:09:613, Door added customer 23 to waitingarea
+15:01:09:668, Thread-3: Customer 10 is now eating.
+15:01:09:731, Thread-4: Customer 4 is now leaving.
+15:01:09:738, Door added customer 24 to waitingarea
+15:01:09:744, Waitress let customer 4 go
+15:01:09:760, Waitress fetched customer 11
+15:01:09:826, Thread-4: Customer 11 is now eating.
+15:01:09:873, Thread-0: Customer 5 is now leaving.
+15:01:09:875, Waitress let customer 5 go
+15:01:09:877, Door added customer 25 to waitingarea
+15:01:09:880, Waitress fetched customer 12
+15:01:09:944, Thread-0: Customer 12 is now eating.
+15:01:09:992, Thread-5: Customer 6 is now leaving.
+15:01:09:997, Waitress let customer 6 go
+15:01:10:00, Door added customer 26 to waitingarea
+15:01:10:07, Waitress fetched customer 13
+15:01:10:71, Thread-5: Customer 13 is now eating.
+15:01:10:130, Door added customer 27 to waitingarea
+15:01:10:254, Door added customer 28 to waitingarea
+15:01:10:382, Door added customer 29 to waitingarea
+15:01:10:510, Door added customer 30 to waitingarea
+15:01:10:638, Door added customer 31 to waitingarea
+15:01:10:765, Door added customer 32 to waitingarea
+15:01:10:892, Door added customer 33 to waitingarea
+15:01:11:861, Thread-2: Customer 7 is now leaving.
+15:01:11:863, Waitress let customer 7 go
+15:01:11:865, Door added customer 34 to waitingarea
+15:01:11:865, Waitress fetched customer 14
+15:01:11:871, *** DOOR IS NOW CLOSED ***
+15:01:11:931, Thread-2: Customer 14 is now eating.
+15:01:11:931, Thread-6: Customer 8 is now leaving.
+15:01:11:948, Waitress let customer 8 go
+15:01:11:949, Waitress fetched customer 15
+15:01:12:18, Thread-6: Customer 15 is now eating.
+15:01:12:44, Thread-1: Customer 9 is now leaving.
+15:01:12:46, Waitress let customer 9 go
+15:01:12:48, Waitress fetched customer 16
+15:01:12:109, Thread-1: Customer 16 is now eating.
+15:01:12:169, Thread-3: Customer 10 is now leaving.
+15:01:12:171, Waitress let customer 10 go
+15:01:12:173, Waitress fetched customer 17
+15:01:12:235, Thread-3: Customer 17 is now eating.
+15:01:12:329, Thread-4: Customer 11 is now leaving.
+15:01:12:336, Waitress let customer 11 go
+15:01:12:352, Waitress fetched customer 18
+15:01:12:419, Thread-4: Customer 18 is now eating.
+15:01:12:448, Thread-0: Customer 12 is now leaving.
+15:01:12:450, Waitress let customer 12 go
+15:01:12:452, Waitress fetched customer 19
+15:01:12:517, Thread-0: Customer 19 is now eating.
+15:01:12:573, Thread-5: Customer 13 is now leaving.
+15:01:12:574, Waitress let customer 13 go
+15:01:12:576, Waitress fetched customer 20
+15:01:12:639, Thread-5: Customer 20 is now eating.
+15:01:14:446, Thread-2: Customer 14 is now leaving.
+15:01:14:449, Waitress let customer 14 go
+15:01:14:463, Waitress fetched customer 21
+15:01:14:521, Thread-6: Customer 15 is now leaving.
+15:01:14:523, Waitress let customer 15 go
+15:01:14:526, Waitress fetched customer 22
+15:01:14:526, Thread-2: Customer 21 is now eating.
+15:01:14:589, Thread-6: Customer 22 is now eating.
+15:01:14:611, Thread-1: Customer 16 is now leaving.
+15:01:14:619, Waitress let customer 16 go
+15:01:14:622, Waitress fetched customer 23
+15:01:14:684, Thread-1: Customer 23 is now eating.
+15:01:14:739, Thread-3: Customer 17 is now leaving.
+15:01:14:742, Waitress let customer 17 go
+15:01:14:743, Waitress fetched customer 24
+15:01:14:805, Thread-3: Customer 24 is now eating.
+15:01:14:922, Thread-4: Customer 18 is now leaving.
+15:01:14:925, Waitress let customer 18 go
+15:01:14:928, Waitress fetched customer 25
+15:01:14:990, Thread-4: Customer 25 is now eating.
+15:01:15:36, Thread-0: Customer 19 is now leaving.
+15:01:15:112, Waitress let customer 19 go
+15:01:15:114, Waitress fetched customer 26
+15:01:15:151, Thread-5: Customer 20 is now leaving.
+15:01:15:159, Waitress let customer 20 go
+15:01:15:161, Waitress fetched customer 27
+15:01:15:181, Thread-0: Customer 26 is now eating.
+15:01:15:224, Thread-5: Customer 27 is now eating.
+15:01:17:29, Thread-2: Customer 21 is now leaving.
+15:01:17:32, Waitress let customer 21 go
+15:01:17:33, Waitress fetched customer 28
+15:01:17:92, Thread-6: Customer 22 is now leaving.
+15:01:17:95, Waitress let customer 22 go
+15:01:17:95, Thread-2: Customer 28 is now eating.
+15:01:17:97, Waitress fetched customer 29
+15:01:17:159, Thread-6: Customer 29 is now eating.
+15:01:17:188, Thread-1: Customer 23 is now leaving.
+15:01:17:195, Waitress let customer 23 go
+15:01:17:199, Waitress fetched customer 30
+15:01:17:262, Thread-1: Customer 30 is now eating.
+15:01:17:309, Thread-3: Customer 24 is now leaving.
+15:01:17:310, Waitress let customer 24 go
+15:01:17:312, Waitress fetched customer 31
+15:01:17:374, Thread-3: Customer 31 is now eating.
+15:01:17:492, Thread-4: Customer 25 is now leaving.
+15:01:17:494, Waitress let customer 25 go
+15:01:17:495, Waitress fetched customer 32
+15:01:17:557, Thread-4: Customer 32 is now eating.
+15:01:17:693, Thread-0: Customer 26 is now leaving.
+15:01:17:697, Waitress let customer 26 go
+15:01:17:704, Waitress fetched customer 33
+15:01:17:727, Thread-5: Customer 27 is now leaving.
+15:01:17:735, Waitress let customer 27 go
+15:01:17:743, Waitress fetched customer 34
+15:01:17:768, Thread-0: Customer 33 is now eating.
+15:01:17:805, Thread-5: Customer 34 is now eating.
+15:01:19:597, Thread-2: Customer 28 is now leaving.
+15:01:19:599, Waitress let customer 28 go
+15:01:19:662, Thread-6: Customer 29 is now leaving.
+15:01:19:664, Waitress let customer 29 go
+15:01:19:764, Thread-1: Customer 30 is now leaving.
+15:01:19:766, Waitress let customer 30 go
+15:01:19:875, Thread-3: Customer 31 is now leaving.
+15:01:19:877, Waitress let customer 31 go
+15:01:20:60, Thread-4: Customer 32 is now leaving.
+15:01:20:62, Waitress let customer 32 go
+15:01:20:279, Thread-0: Customer 33 is now leaving.
+15:01:20:282, Waitress let customer 33 go
+15:01:20:308, Thread-5: Customer 34 is now leaving.
+15:01:20:315, Waitress let customer 34 go
+15:01:20:318, Total number of orders: 451
+15:01:20:337, Orders eaten here: 215
+15:01:20:362, Orders taken out: 236
+15:13:53:220, Door added customer 0 to waitingarea
+15:13:53:381, Door added customer 1 to waitingarea
+15:13:53:504, Door added customer 2 to waitingarea
+15:13:53:631, Door added customer 3 to waitingarea
+15:13:53:753, Door added customer 4 to waitingarea
+15:13:53:879, Door added customer 5 to waitingarea
+15:13:54:01, Door added customer 6 to waitingarea
+15:13:54:125, Door added customer 7 to waitingarea
+15:13:54:249, Door added customer 8 to waitingarea
+15:13:54:373, Door added customer 9 to waitingarea
+15:13:54:498, Door added customer 10 to waitingarea
+15:13:54:620, Door added customer 11 to waitingarea
+15:13:54:744, Door added customer 12 to waitingarea
+15:13:54:868, Door added customer 13 to waitingarea
+15:13:54:992, Door added customer 14 to waitingarea
+15:13:55:117, Door added customer 15 to waitingarea
+15:13:55:240, Door added customer 16 to waitingarea
+15:13:55:364, Door added customer 17 to waitingarea
+15:13:55:488, Door added customer 18 to waitingarea
+15:13:55:614, Door added customer 19 to waitingarea
+15:14:14:210, Door added customer 0 to waitingarea
+15:14:14:380, Door added customer 1 to waitingarea
+15:14:14:506, Door added customer 2 to waitingarea
+15:14:14:631, Door added customer 3 to waitingarea
+15:14:14:755, Door added customer 4 to waitingarea
+15:14:14:880, Door added customer 5 to waitingarea
+15:14:15:06, Door added customer 6 to waitingarea
+15:14:15:137, Door added customer 7 to waitingarea
+15:14:15:263, Door added customer 8 to waitingarea
+15:14:15:388, Door added customer 9 to waitingarea
+15:14:15:512, Door added customer 10 to waitingarea
+15:14:15:637, Door added customer 11 to waitingarea
+15:14:15:762, Door added customer 12 to waitingarea
+15:14:15:887, Door added customer 13 to waitingarea
+15:14:16:11, Door added customer 14 to waitingarea
+15:14:45:943, Door added customer 0 to waitingarea
+15:14:46:115, Door added customer 1 to waitingarea
+15:14:46:240, Door added customer 2 to waitingarea
+15:14:46:367, Door added customer 3 to waitingarea
+15:14:46:495, Door added customer 4 to waitingarea
+15:14:46:622, Door added customer 5 to waitingarea
+15:14:46:750, Door added customer 6 to waitingarea
+15:14:46:877, Door added customer 7 to waitingarea
+15:14:47:02, Door added customer 8 to waitingarea
+15:14:47:130, Door added customer 9 to waitingarea
+15:14:47:257, Door added customer 10 to waitingarea
+15:14:47:383, Door added customer 11 to waitingarea
+15:14:47:512, Door added customer 12 to waitingarea
+15:14:47:641, Door added customer 13 to waitingarea
+15:14:47:769, Door added customer 14 to waitingarea
+15:14:47:897, Door added customer 15 to waitingarea
+15:14:48:25, Door added customer 16 to waitingarea
+15:14:48:153, Door added customer 17 to waitingarea
+15:14:48:277, Door added customer 18 to waitingarea
+15:14:48:403, Door added customer 19 to waitingarea
+15:16:39:147, Door added customer 0 to waitingarea
+15:16:39:297, Door added customer 1 to waitingarea
+15:16:39:424, Door added customer 2 to waitingarea
+15:16:39:551, Door added customer 3 to waitingarea
+15:16:39:678, Door added customer 4 to waitingarea
+15:16:39:806, Door added customer 5 to waitingarea
+15:16:39:933, Door added customer 6 to waitingarea
+15:16:40:60, Door added customer 7 to waitingarea
+15:16:40:184, Door added customer 8 to waitingarea
+15:16:40:311, Door added customer 9 to waitingarea
+15:16:40:434, Door added customer 10 to waitingarea
+15:16:40:558, Door added customer 11 to waitingarea
+15:16:40:681, Door added customer 12 to waitingarea
+15:16:40:804, Door added customer 13 to waitingarea
+15:16:40:928, Door added customer 14 to waitingarea
+15:17:07:485, DoorThreadDoor added customer 0 to waitingarea
+15:17:07:696, DoorThreadDoor added customer 1 to waitingarea
+15:17:07:825, DoorThreadDoor added customer 2 to waitingarea
+15:17:07:954, DoorThreadDoor added customer 3 to waitingarea
+15:17:08:79, DoorThreadDoor added customer 4 to waitingarea
+15:17:08:205, DoorThreadDoor added customer 5 to waitingarea
+15:17:08:333, DoorThreadDoor added customer 6 to waitingarea
+15:17:08:463, DoorThreadDoor added customer 7 to waitingarea
+15:17:08:588, DoorThreadDoor added customer 8 to waitingarea
+15:17:08:710, DoorThreadDoor added customer 9 to waitingarea
+15:17:08:834, DoorThreadDoor added customer 10 to waitingarea
+15:17:08:958, DoorThreadDoor added customer 11 to waitingarea
+15:17:09:80, DoorThreadDoor added customer 12 to waitingarea
+15:17:09:204, DoorThreadDoor added customer 13 to waitingarea
+15:17:09:332, DoorThreadDoor added customer 14 to waitingarea
+15:17:09:466, DoorThreadDoor added customer 15 to waitingarea
+15:17:09:595, DoorThreadDoor added customer 16 to waitingarea
+15:17:09:722, DoorThreadDoor added customer 17 to waitingarea
+15:17:09:850, DoorThreadDoor added customer 18 to waitingarea
+15:17:09:981, DoorThreadDoor added customer 19 to waitingarea
+15:19:54:975, DoorThread: Door added customer 0 to waitingarea
+15:19:55:130, DoorThread: Door added customer 1 to waitingarea
+15:19:55:256, DoorThread: Door added customer 2 to waitingarea
+15:19:55:384, DoorThread: Door added customer 3 to waitingarea
+15:19:55:513, DoorThread: Door added customer 4 to waitingarea
+15:19:55:637, DoorThread: Door added customer 5 to waitingarea
+15:19:55:761, DoorThread: Door added customer 6 to waitingarea
+15:19:55:885, DoorThread: Door added customer 7 to waitingarea
+15:19:56:12, DoorThread: Door added customer 8 to waitingarea
+15:19:56:135, DoorThread: Door added customer 9 to waitingarea
+15:19:56:259, DoorThread: Door added customer 10 to waitingarea
+15:19:56:385, DoorThread: Door added customer 11 to waitingarea
+15:19:56:513, DoorThread: Door added customer 12 to waitingarea
+15:19:56:638, DoorThread: Door added customer 13 to waitingarea
+15:19:56:769, DoorThread: Door added customer 14 to waitingarea
+15:19:56:897, DoorThread: Door added customer 15 to waitingarea
+15:19:57:26, DoorThread: Door added customer 16 to waitingarea
+15:19:57:153, DoorThread: Door added customer 17 to waitingarea
+15:19:57:282, DoorThread: Door added customer 18 to waitingarea
+15:19:57:411, DoorThread: Door added customer 19 to waitingarea
+15:28:58:119, DoorThread: Door added customer 0 to waitingarea
+15:28:58:107, WaitressThread4: Waitress fetched customer 0
+15:28:58:490, DoorThread: Door added customer 1 to waitingarea
+15:28:58:490, WaitressThread3: Waitress fetched customer 1
+15:28:58:722, WaitressThread4: Customer 0 is now eating.
+15:28:58:821, WaitressThread3: Customer 1 is now eating.
+15:28:58:837, DoorThread: Door added customer 2 to waitingarea
+15:28:58:837, WaitressThread2: Waitress fetched customer 2
+15:28:58:969, WaitressThread2: Customer 2 is now eating.
+15:28:59:21, WaitressThread6: Waitress fetched customer 3
+15:28:59:22, DoorThread: Door added customer 3 to waitingarea
+15:28:59:104, WaitressThread6: Customer 3 is now eating.
+15:28:59:236, DoorThread: Door added customer 4 to waitingarea
+15:28:59:236, WaitressThread1: Waitress fetched customer 4
+15:28:59:307, WaitressThread1: Customer 4 is now eating.
+15:28:59:361, DoorThread: Door added customer 5 to waitingarea
+15:28:59:361, WaitressThread5: Waitress fetched customer 5
+15:28:59:436, WaitressThread5: Customer 5 is now eating.
+15:28:59:488, WaitressThread0: Waitress fetched customer 6
+15:28:59:488, DoorThread: Door added customer 6 to waitingarea
+15:28:59:553, WaitressThread0: Customer 6 is now eating.
+15:28:59:615, DoorThread: Door added customer 7 to waitingarea
+15:28:59:739, DoorThread: Door added customer 8 to waitingarea
+15:28:59:863, DoorThread: Door added customer 9 to waitingarea
+15:28:59:986, DoorThread: Door added customer 10 to waitingarea
+15:29:00:109, DoorThread: Door added customer 11 to waitingarea
+15:29:00:234, DoorThread: Door added customer 12 to waitingarea
+15:29:00:358, DoorThread: Door added customer 13 to waitingarea
+15:29:00:481, DoorThread: Door added customer 14 to waitingarea
+15:29:00:605, DoorThread: Door added customer 15 to waitingarea
+15:29:00:730, DoorThread: Door added customer 16 to waitingarea
+15:29:00:853, DoorThread: Door added customer 17 to waitingarea
+15:29:00:977, DoorThread: Door added customer 18 to waitingarea
+15:29:01:102, DoorThread: Door added customer 19 to waitingarea
+15:29:01:224, DoorThread: Door added customer 20 to waitingarea
+15:29:01:280, WaitressThread4: Customer 0 is now leaving.
+15:29:01:284, WaitressThread4: Waitress let customer 0 go
+15:29:01:286, WaitressThread4: Waitress fetched customer 7
+15:29:01:338, WaitressThread3: Customer 1 is now leaving.
+15:29:01:341, WaitressThread3: Waitress let customer 1 go
+15:29:01:344, WaitressThread3: Waitress fetched customer 8
+15:29:01:356, WaitressThread4: Customer 7 is now eating.
+15:29:01:362, DoorThread: Door added customer 21 to waitingarea
+15:29:01:418, WaitressThread3: Customer 8 is now eating.
+15:29:01:477, WaitressThread2: Customer 2 is now leaving.
+15:29:01:482, WaitressThread2: Waitress let customer 2 go
+15:29:01:485, WaitressThread2: Waitress fetched customer 9
+15:29:01:489, DoorThread: Door added customer 22 to waitingarea
+15:29:01:548, WaitressThread2: Customer 9 is now eating.
+15:29:01:612, DoorThread: Door added customer 23 to waitingarea
+15:29:01:638, WaitressThread6: Customer 3 is now leaving.
+15:29:01:642, WaitressThread6: Waitress let customer 3 go
+15:29:01:644, WaitressThread6: Waitress fetched customer 10
+15:29:01:722, WaitressThread6: Customer 10 is now eating.
+15:29:01:736, DoorThread: Door added customer 24 to waitingarea
+15:29:01:837, WaitressThread1: Customer 4 is now leaving.
+15:29:01:841, WaitressThread1: Waitress let customer 4 go
+15:29:01:843, WaitressThread1: Waitress fetched customer 11
+15:29:01:871, DoorThread: Door added customer 25 to waitingarea
+15:29:01:908, WaitressThread1: Customer 11 is now eating.
+15:29:01:940, WaitressThread5: Customer 5 is now leaving.
+15:29:01:943, WaitressThread5: Waitress let customer 5 go
+15:29:01:950, WaitressThread5: Waitress fetched customer 12
+15:29:01:995, DoorThread: Door added customer 26 to waitingarea
+15:29:02:15, WaitressThread5: Customer 12 is now eating.
+15:29:02:60, WaitressThread0: Customer 6 is now leaving.
+15:29:02:64, WaitressThread0: Waitress let customer 6 go
+15:29:02:68, WaitressThread0: Waitress fetched customer 13
+15:29:02:119, DoorThread: Door added customer 27 to waitingarea
+15:29:02:133, WaitressThread0: Customer 13 is now eating.
+15:29:02:242, DoorThread: Door added customer 28 to waitingarea
+15:29:02:366, DoorThread: Door added customer 29 to waitingarea
+15:29:02:490, DoorThread: Door added customer 30 to waitingarea
+15:29:02:613, DoorThread: Door added customer 31 to waitingarea
+15:29:02:736, DoorThread: Door added customer 32 to waitingarea
+15:29:02:859, DoorThread: Door added customer 33 to waitingarea
+15:29:03:865, WaitressThread4: Customer 7 is now leaving.
+15:29:03:874, WaitressThread4: Waitress let customer 7 go
+15:29:03:880, WaitressThread4: Waitress fetched customer 14
+15:29:03:932, WaitressThread3: Customer 8 is now leaving.
+15:29:03:958, WaitressThread3: Waitress let customer 8 go
+15:29:03:959, WaitressThread4: Customer 14 is now eating.
+15:29:04:00, WaitressThread3: Waitress fetched customer 15
+15:29:04:54, WaitressThread2: Customer 9 is now leaving.
+15:29:04:59, WaitressThread2: Waitress let customer 9 go
+15:29:04:70, WaitressThread3: Customer 15 is now eating.
+15:29:04:75, WaitressThread2: Waitress fetched customer 16
+15:29:04:152, WaitressThread2: Customer 16 is now eating.
+15:29:04:236, WaitressThread6: Customer 10 is now leaving.
+15:29:04:243, WaitressThread6: Waitress let customer 10 go
+15:29:04:273, WaitressThread6: Waitress fetched customer 17
+15:29:04:337, WaitressThread6: Customer 17 is now eating.
+15:29:04:412, WaitressThread1: Customer 11 is now leaving.
+15:29:04:431, WaitressThread1: Waitress let customer 11 go
+15:29:04:443, WaitressThread1: Waitress fetched customer 18
+15:29:04:516, WaitressThread1: Customer 18 is now eating.
+15:29:04:537, WaitressThread5: Customer 12 is now leaving.
+15:29:04:554, WaitressThread5: Waitress let customer 12 go
+15:29:04:564, WaitressThread5: Waitress fetched customer 19
+15:29:04:643, WaitressThread0: Customer 13 is now leaving.
+15:29:04:644, WaitressThread5: Customer 19 is now eating.
+15:29:04:661, WaitressThread0: Waitress let customer 13 go
+15:29:04:701, WaitressThread0: Waitress fetched customer 20
+15:29:04:786, WaitressThread0: Customer 20 is now eating.
+15:29:06:507, WaitressThread4: Customer 14 is now leaving.
+15:29:06:510, WaitressThread4: Waitress let customer 14 go
+15:29:06:512, WaitressThread4: Waitress fetched customer 21
+15:29:06:582, WaitressThread3: Customer 15 is now leaving.
+15:29:06:585, WaitressThread4: Customer 21 is now eating.
+15:29:06:586, WaitressThread3: Waitress let customer 15 go
+15:29:06:592, WaitressThread3: Waitress fetched customer 22
+15:29:06:655, WaitressThread3: Customer 22 is now eating.
+15:29:06:655, WaitressThread2: Customer 16 is now leaving.
+15:29:06:658, WaitressThread2: Waitress let customer 16 go
+15:29:06:660, WaitressThread2: Waitress fetched customer 23
+15:29:06:721, WaitressThread2: Customer 23 is now eating.
+15:29:06:840, WaitressThread6: Customer 17 is now leaving.
+15:29:06:843, WaitressThread6: Waitress let customer 17 go
+15:29:06:849, WaitressThread6: Waitress fetched customer 24
+15:29:06:915, WaitressThread6: Customer 24 is now eating.
+15:29:07:20, WaitressThread1: Customer 18 is now leaving.
+15:29:07:22, WaitressThread1: Waitress let customer 18 go
+15:29:07:25, WaitressThread1: Waitress fetched customer 25
+15:29:07:91, WaitressThread1: Customer 25 is now eating.
+15:29:07:185, WaitressThread5: Customer 19 is now leaving.
+15:29:07:192, WaitressThread5: Waitress let customer 19 go
+15:29:07:230, WaitressThread5: Waitress fetched customer 26
+15:29:07:293, WaitressThread0: Customer 20 is now leaving.
+15:29:07:318, WaitressThread0: Waitress let customer 20 go
+15:29:07:322, WaitressThread0: Waitress fetched customer 27
+15:29:07:348, WaitressThread5: Customer 26 is now eating.
+15:29:07:386, WaitressThread0: Customer 27 is now eating.
+15:29:09:91, WaitressThread4: Customer 21 is now leaving.
+15:29:09:101, WaitressThread4: Waitress let customer 21 go
+15:29:09:104, WaitressThread4: Waitress fetched customer 28
+15:29:09:157, WaitressThread3: Customer 22 is now leaving.
+15:29:09:159, WaitressThread3: Waitress let customer 22 go
+15:29:09:162, WaitressThread3: Waitress fetched customer 29
+15:29:09:167, WaitressThread4: Customer 28 is now eating.
+15:29:09:225, WaitressThread2: Customer 23 is now leaving.
+15:29:09:225, WaitressThread3: Customer 29 is now eating.
+15:29:09:228, WaitressThread2: Waitress let customer 23 go
+15:29:09:234, WaitressThread2: Waitress fetched customer 30
+15:29:09:299, WaitressThread2: Customer 30 is now eating.
+15:29:09:426, WaitressThread6: Customer 24 is now leaving.
+15:29:09:430, WaitressThread6: Waitress let customer 24 go
+15:29:09:438, WaitressThread6: Waitress fetched customer 31
+15:29:09:500, WaitressThread6: Customer 31 is now eating.
+15:29:09:595, WaitressThread1: Customer 25 is now leaving.
+15:29:09:599, WaitressThread1: Waitress let customer 25 go
+15:29:09:601, WaitressThread1: Waitress fetched customer 32
+15:29:09:666, WaitressThread1: Customer 32 is now eating.
+15:29:09:857, WaitressThread5: Customer 26 is now leaving.
+15:29:09:863, WaitressThread5: Waitress let customer 26 go
+15:29:09:878, WaitressThread5: Waitress fetched customer 33
+15:29:09:905, WaitressThread0: Customer 27 is now leaving.
+15:29:09:909, WaitressThread0: Waitress let customer 27 go
+15:29:09:954, WaitressThread5: Customer 33 is now eating.
+15:29:11:673, WaitressThread4: Customer 28 is now leaving.
+15:29:11:676, WaitressThread4: Waitress let customer 28 go
+15:29:11:733, WaitressThread3: Customer 29 is now leaving.
+15:29:11:739, WaitressThread3: Waitress let customer 29 go
+15:29:11:802, WaitressThread2: Customer 30 is now leaving.
+15:29:11:805, WaitressThread2: Waitress let customer 30 go
+15:29:12:03, WaitressThread6: Customer 31 is now leaving.
+15:29:12:06, WaitressThread6: Waitress let customer 31 go
+15:29:12:169, WaitressThread1: Customer 32 is now leaving.
+15:29:12:172, WaitressThread1: Waitress let customer 32 go
+15:29:12:463, WaitressThread5: Customer 33 is now leaving.
+15:29:12:466, WaitressThread5: Waitress let customer 33 go
+15:29:12:473, Total number of orders: 471
+15:29:12:476, Orders eaten here: 252
+15:29:12:477, Orders taken out: 219
+15:34:01:219, DoorThread: Door added customer 0 to waitingarea
+15:34:01:372, DoorThread: Door added customer 1 to waitingarea
+15:34:01:498, DoorThread: Door added customer 2 to waitingarea
+15:34:01:627, DoorThread: Door added customer 3 to waitingarea
+15:34:01:755, DoorThread: Door added customer 4 to waitingarea
+15:34:01:881, DoorThread: Door added customer 5 to waitingarea
+15:34:02:10, DoorThread: Door added customer 6 to waitingarea
+15:34:02:141, DoorThread: Door added customer 7 to waitingarea
+15:34:02:273, DoorThread: Door added customer 8 to waitingarea
+15:34:02:403, DoorThread: Door added customer 9 to waitingarea
+15:34:02:531, DoorThread: Door added customer 10 to waitingarea
+15:34:02:661, DoorThread: Door added customer 11 to waitingarea
+15:34:02:790, DoorThread: Door added customer 12 to waitingarea
+15:34:02:919, DoorThread: Door added customer 13 to waitingarea
+15:34:03:45, DoorThread: Door added customer 14 to waitingarea
+15:34:03:170, DoorThread: Door added customer 15 to waitingarea
+15:34:03:299, DoorThread: Door added customer 16 to waitingarea
+15:34:03:424, DoorThread: Door added customer 17 to waitingarea
+15:34:03:550, DoorThread: Door added customer 18 to waitingarea
+15:34:03:677, DoorThread: Door added customer 19 to waitingarea
+15:34:03:829, Total number of orders: 0
+15:34:03:834, Orders eaten here: 0
+15:34:03:847, Orders taken out: 0
+15:37:20:885, DoorThread: Door added customer 0 to waitingarea
+15:37:20:886, WaitressThread1: Waitress fetched customer 0
+15:37:21:79, WaitressThread3: Waitress fetched customer 1
+15:37:21:79, DoorThread: Door added customer 1 to waitingarea
+15:37:21:201, WaitressThread2: Waitress fetched customer 2
+15:37:21:202, DoorThread: Door added customer 2 to waitingarea
+15:37:21:328, DoorThread: Door added customer 3 to waitingarea
+15:37:21:328, WaitressThread6: Waitress fetched customer 3
+15:37:21:451, WaitressThread0: Waitress fetched customer 4
+15:37:21:451, DoorThread: Door added customer 4 to waitingarea
+15:37:21:575, DoorThread: Door added customer 5 to waitingarea
+15:37:21:575, WaitressThread4: Waitress fetched customer 5
+15:37:21:698, WaitressThread5: Waitress fetched customer 6
+15:37:21:698, DoorThread: Door added customer 6 to waitingarea
+15:37:21:820, DoorThread: Door added customer 7 to waitingarea
+15:37:21:942, DoorThread: Door added customer 8 to waitingarea
+15:37:22:65, DoorThread: Door added customer 9 to waitingarea
+15:37:22:192, DoorThread: Door added customer 10 to waitingarea
+15:37:22:317, DoorThread: Door added customer 11 to waitingarea
+15:37:22:440, DoorThread: Door added customer 12 to waitingarea
+15:37:22:563, DoorThread: Door added customer 13 to waitingarea
+15:37:22:687, DoorThread: Door added customer 14 to waitingarea
+15:37:22:810, DoorThread: Door added customer 15 to waitingarea
+15:37:22:933, DoorThread: Door added customer 16 to waitingarea
+15:37:23:58, DoorThread: Door added customer 17 to waitingarea
+15:37:23:182, DoorThread: Door added customer 18 to waitingarea
+15:37:23:310, DoorThread: Door added customer 19 to waitingarea
+15:37:23:438, DoorThread: Door added customer 20 to waitingarea
+15:37:23:564, DoorThread: Door added customer 21 to waitingarea
+15:37:23:689, DoorThread: Door added customer 22 to waitingarea
+15:37:23:813, DoorThread: Door added customer 23 to waitingarea
+15:37:23:940, DoorThread: Door added customer 24 to waitingarea
+15:37:24:70, DoorThread: Door added customer 25 to waitingarea
+15:37:24:194, DoorThread: Door added customer 26 to waitingarea
+15:37:24:330, Total number of orders: 0
+15:37:24:332, Orders eaten here: 0
+15:37:24:333, Orders taken out: 0
+15:37:39:449, DoorThread: Door added customer 0 to waitingarea
+15:37:39:609, DoorThread: Door added customer 1 to waitingarea
+15:37:39:735, DoorThread: Door added customer 2 to waitingarea
+15:37:39:866, DoorThread: Door added customer 3 to waitingarea
+15:37:39:996, DoorThread: Door added customer 4 to waitingarea
+15:37:40:120, DoorThread: Door added customer 5 to waitingarea
+15:37:40:247, DoorThread: Door added customer 6 to waitingarea
+15:37:40:378, DoorThread: Door added customer 7 to waitingarea
+15:37:40:503, DoorThread: Door added customer 8 to waitingarea
+15:37:40:631, DoorThread: Door added customer 9 to waitingarea
+15:37:40:754, DoorThread: Door added customer 10 to waitingarea
+15:37:40:881, DoorThread: Door added customer 11 to waitingarea
+15:37:41:10, DoorThread: Door added customer 12 to waitingarea
+15:37:41:138, DoorThread: Door added customer 13 to waitingarea
+15:37:41:267, DoorThread: Door added customer 14 to waitingarea
+15:37:41:400, DoorThread: Door added customer 15 to waitingarea
+15:37:41:525, DoorThread: Door added customer 16 to waitingarea
+15:37:41:649, DoorThread: Door added customer 17 to waitingarea
+15:37:41:771, DoorThread: Door added customer 18 to waitingarea
+15:37:41:896, DoorThread: Door added customer 19 to waitingarea
+15:37:42:32, Total number of orders: 0
+15:37:42:36, Orders eaten here: 0
+15:37:42:39, Orders taken out: 0
+15:42:31:317, DoorThread: Door added customer 0 to waitingarea
+15:42:31:474, DoorThread: Door added customer 1 to waitingarea
+15:42:31:603, DoorThread: Door added customer 2 to waitingarea
+15:42:31:731, DoorThread: Door added customer 3 to waitingarea
+15:42:31:859, DoorThread: Door added customer 4 to waitingarea
+15:42:31:988, DoorThread: Door added customer 5 to waitingarea
+15:42:32:115, DoorThread: Door added customer 6 to waitingarea
+15:42:32:242, DoorThread: Door added customer 7 to waitingarea
+15:42:32:366, DoorThread: Door added customer 8 to waitingarea
+15:42:32:488, DoorThread: Door added customer 9 to waitingarea
+15:42:32:613, DoorThread: Door added customer 10 to waitingarea
+15:42:32:738, DoorThread: Door added customer 11 to waitingarea
+15:42:32:859, DoorThread: Door added customer 12 to waitingarea
+15:42:32:984, DoorThread: Door added customer 13 to waitingarea
+15:42:33:109, DoorThread: Door added customer 14 to waitingarea
+15:42:33:238, DoorThread: Door added customer 15 to waitingarea
+15:42:33:370, DoorThread: Door added customer 16 to waitingarea
+15:42:33:498, DoorThread: Door added customer 17 to waitingarea
+15:42:33:625, DoorThread: Door added customer 18 to waitingarea
+15:42:33:748, DoorThread: Door added customer 19 to waitingarea
+15:42:33:877, Total number of orders: 0
+15:42:33:887, Orders eaten here: 0
+15:42:33:893, Orders taken out: 0
+15:43:35:255, DoorThread: Door added customer 0 to waitingarea
+15:43:35:449, DoorThread: Door added customer 1 to waitingarea
+15:43:35:583, DoorThread: Door added customer 2 to waitingarea
+15:43:35:722, DoorThread: Door added customer 3 to waitingarea
+15:43:35:863, DoorThread: Door added customer 4 to waitingarea
+15:43:35:987, DoorThread: Door added customer 5 to waitingarea
+15:43:36:123, DoorThread: Door added customer 6 to waitingarea
+15:43:36:247, DoorThread: Door added customer 7 to waitingarea
+15:43:36:372, DoorThread: Door added customer 8 to waitingarea
+15:43:36:500, DoorThread: Door added customer 9 to waitingarea
+15:43:36:625, DoorThread: Door added customer 10 to waitingarea
+15:43:36:752, DoorThread: Door added customer 11 to waitingarea
+15:43:36:889, DoorThread: Door added customer 12 to waitingarea
+15:43:37:78, DoorThread: Door added customer 13 to waitingarea
+15:43:37:224, DoorThread: Door added customer 14 to waitingarea
+15:43:37:449, DoorThread: Door added customer 15 to waitingarea
+15:43:37:716, DoorThread: Door added customer 16 to waitingarea
+15:43:37:965, DoorThread: Door added customer 17 to waitingarea
+15:43:38:493, DoorThread: Door added customer 18 to waitingarea
+15:43:38:636, DoorThread: Door added customer 19 to waitingarea
+15:43:38:762, Total number of orders: 0
+15:43:38:771, Orders eaten here: 0
+15:43:38:774, Orders taken out: 0
+15:48:34:603, DoorThread: Door added customer 0 to waitingarea
+15:48:34:772, DoorThread: Door added customer 1 to waitingarea
+15:48:34:901, DoorThread: Door added customer 2 to waitingarea
+15:48:35:28, DoorThread: Door added customer 3 to waitingarea
+15:48:35:155, DoorThread: Door added customer 4 to waitingarea
+15:48:35:283, DoorThread: Door added customer 5 to waitingarea
+15:48:35:410, DoorThread: Door added customer 6 to waitingarea
+15:48:35:533, DoorThread: Door added customer 7 to waitingarea
+15:48:35:660, DoorThread: Door added customer 8 to waitingarea
+15:48:35:783, DoorThread: Door added customer 9 to waitingarea
+15:48:35:907, DoorThread: Door added customer 10 to waitingarea
+15:48:36:32, DoorThread: Door added customer 11 to waitingarea
+15:48:36:154, DoorThread: Door added customer 12 to waitingarea
+15:48:36:277, DoorThread: Door added customer 13 to waitingarea
+15:48:36:399, DoorThread: Door added customer 14 to waitingarea
+15:48:36:522, DoorThread: Door added customer 15 to waitingarea
+15:48:36:645, DoorThread: Door added customer 16 to waitingarea
+15:48:36:767, DoorThread: Door added customer 17 to waitingarea
+15:48:36:890, DoorThread: Door added customer 18 to waitingarea
+15:48:37:12, DoorThread: Door added customer 19 to waitingarea
+15:48:37:153, Total number of orders: 0
+15:48:37:170, Orders eaten here: 0
+15:48:37:181, Orders taken out: 0
+15:50:24:407, WaitressThread6: Waitress fetched customer 0
+15:50:24:407, DoorThread: Door added customer 0 to waitingarea
+15:50:24:570, WaitressThread5: Waitress fetched customer 1
+15:50:24:572, DoorThread: Door added customer 1 to waitingarea
+15:50:24:697, WaitressThread3: Waitress fetched customer 2
+15:50:24:697, DoorThread: Door added customer 2 to waitingarea
+15:50:24:821, DoorThread: Door added customer 3 to waitingarea
+15:50:24:821, WaitressThread0: Waitress fetched customer 3
+15:50:24:945, DoorThread: Door added customer 4 to waitingarea
+15:50:24:945, WaitressThread2: Waitress fetched customer 4
+15:50:25:75, DoorThread: Door added customer 5 to waitingarea
+15:50:25:75, WaitressThread1: Waitress fetched customer 5
+15:50:25:205, DoorThread: Door added customer 6 to waitingarea
+15:50:25:205, WaitressThread4: Waitress fetched customer 6
+15:50:25:327, DoorThread: Door added customer 7 to waitingarea
+15:50:25:450, DoorThread: Door added customer 8 to waitingarea
+15:50:25:575, DoorThread: Door added customer 9 to waitingarea
+15:50:25:702, DoorThread: Door added customer 10 to waitingarea
+15:50:25:825, DoorThread: Door added customer 11 to waitingarea
+15:50:25:950, DoorThread: Door added customer 12 to waitingarea
+15:50:26:73, DoorThread: Door added customer 13 to waitingarea
+15:50:26:198, DoorThread: Door added customer 14 to waitingarea
+15:50:26:323, DoorThread: Door added customer 15 to waitingarea

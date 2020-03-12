@@ -8,6 +8,7 @@ public class Waitress implements Runnable {
 
     /**
      * Creates a new waitress.
+     * 
      * @param waitingArea The waiting area for customers
      */
     Waitress(WaitingArea waitingArea) {
@@ -19,24 +20,28 @@ public class Waitress implements Runnable {
      * instance.
      */
     @Override
-    public synchronized void run() {
-        while(waitingArea.getCurrentSize() > 0 || SushiBar.isOpen) {
-            while (currentCustomer == null) {
-                currentCustomer = waitingArea.fetch();
+    public  void run() {
+        while (waitingArea.getCurrentSize() > 0 || SushiBar.isOpen) {
+            synchronized(waitingArea) {
+                while (waitingArea.isEmpty()) {
+                    try {
+                        waitingArea.wait();
+                    } catch (InterruptedException e) { 
+                        e.printStackTrace();
+                    }
+                }
             }
-            SushiBar.write(String.format("Waitress fetched customer %d", currentCustomer.getCustomerID()));
+            currentCustomer = waitingArea.fetch();
+            if(currentCustomer == null) continue;
+            
+            SushiBar.write(Thread.currentThread().getName() +  String.format(": Waitress fetched customer %d", currentCustomer.getCustomerID()));
             try {
                 wait(SushiBar.waitressWait);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-            currentCustomer.order(this);
-            try {
-                wait();
-            } catch (InterruptedException e) {
-                e.printStackTrace();
-            }
-            SushiBar.write(String.format("Waitress let customer %d go", currentCustomer.getCustomerID()));
+            currentCustomer.order();
+            SushiBar.write(Thread.currentThread().getName() +  String.format(": Waitress let customer %d go", currentCustomer.getCustomerID()));
             currentCustomer = null;
         }
     }

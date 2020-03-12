@@ -4,7 +4,6 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 
-
 public class SushiBar {
     // SushiBar settings.
     private static int waitingAreaCapacity = 20;
@@ -25,7 +24,6 @@ public class SushiBar {
     public static SynchronizedInteger takeawayOrders;
     public static SynchronizedInteger totalOrders;
 
-
     public static void main(String[] args) {
         log = new File(path + "log.txt");
 
@@ -36,14 +34,29 @@ public class SushiBar {
         WaitingArea waitingArea = new WaitingArea(waitingAreaCapacity);
         Door door = new Door(waitingArea);
         ArrayList<Thread> waitressThreads = new ArrayList<>();
-        for(int i = 0 ; i < waitressCount ; i++) {
-            waitressThreads.add(new Thread(new Waitress(waitingArea)));
+        for (int i = 0; i < waitressCount; i++) {
+            waitressThreads.add(new Thread(new Waitress(waitingArea), "WaitressThread"+i));
         }
-        Thread doorThread = new Thread(door);
+        Thread doorThread = new Thread(door, "DoorThread");
         Clock clock = new Clock(duration);
         doorThread.start();
         waitressThreads.forEach((wt) -> wt.start());
 
+        for (Thread waitressThread : waitressThreads) {
+            try {
+                waitressThread.join();
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+        }
+        try {
+            doorThread.join();
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        SushiBar.write("Total number of orders: " + totalOrders.get());
+        SushiBar.write("Orders eaten here: " + servedOrders.get());
+        SushiBar.write("Orders taken out: " + takeawayOrders.get());
     }
 
     /**

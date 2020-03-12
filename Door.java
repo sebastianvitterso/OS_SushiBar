@@ -35,7 +35,7 @@ public class Door implements Runnable {
             if(!waitingArea.isFull()) {
                 Customer customer = new Customer();
                 waitingArea.enter(customer);
-                SushiBar.write(Thread.currentThread().getName() + String.format(": Door added customer %d to waitingarea", customer.getCustomerID()));
+                SushiBar.write(Thread.currentThread().getName() + String.format(": Customer %d is now waiting", customer.getCustomerID()));
             } else {
                 while (waitingArea.isFull()) {
                     try {

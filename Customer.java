@@ -24,6 +24,7 @@ public class Customer {
         SushiBar.servedOrders.add(servedOrders);
         SushiBar.takeawayOrders.add(takeAwayOrders);
         SushiBar.totalOrders.add(servedOrders + takeAwayOrders);
+        
         try {
             wait(SushiBar.customerWait);
         } catch (InterruptedException e) {

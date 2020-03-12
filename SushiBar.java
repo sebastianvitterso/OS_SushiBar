@@ -35,10 +35,10 @@ public class SushiBar {
         Door door = new Door(waitingArea);
         ArrayList<Thread> waitressThreads = new ArrayList<>();
         for (int i = 0; i < waitressCount; i++) {
-            waitressThreads.add(new Thread(new Waitress(waitingArea), "WaitressThread"+i));
+            waitressThreads.add(new Thread(new Waitress(waitingArea)));
         }
-        Thread doorThread = new Thread(door, "DoorThread");
-        Clock clock = new Clock(duration);
+        Thread doorThread = new Thread(door);
+        new Clock(duration);
         doorThread.start();
         waitressThreads.forEach((wt) -> wt.start());
 

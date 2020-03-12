@@ -1,0 +1,27 @@
+======================================== Svar på oppgaver: ========================================
+a. obj.wait() lar en vente på obj's monitor, imens obj.notify og obj.notifyAll vil 
+vekke de som venter på obj's monitor. 
+Forskjellen mellom notify og notifyAll er at notify vekker kun én som waiter 
+(dersom det er fler, er det relativt tilfeldig hvilken som vekkes), imens notifyAll
+vekker alle som waiter på ressursen.  
+
+b. WaitingArea.customers og de tre SynchronizedIntegerene i SushiBar er delte ressurser som
+må manages. De siste managet seg selv vha. SynchronizedInteger-klassen, imens customers måtte 
+manuelt styres. Dette ble gjort ved å legge synchronized-flagget på alle interaksjoner med 
+ressursen, for å gjøre operasjonene atomiske.
+
+c. SushiBar skriver ut de siste statistikkene etter alle andre threads er ferdige/selvterminerte, 
+ved å vente på thread.join()-er. Dermed vil den skrive statistikken til slutt, når alle er ferdige
+med dem, og alle kunder er dratt hjem mette og gode. 👌🍣
+===================================================================================================
+
+
+====================================== Generell beskrivelse: ======================================
+Totalt sett implementeres SushiBaren som et monitor-system ved at Door (producer) og Waitress 
+(consumer) begge henter forholder seg til monitoren til WaitingArea. For den snacksy delen av 
+implementasjonen, se Door.java:38 og Waitress.java:39. Disse to stedene bruker jeg 
+waitingArea.wait(), som skal avbrytes av henholdsvis WaitingArea.java:42 og WaitingArea.java:25. 
+Door venter når waitingArea er fullt, og "vekkes" når en kunde hentes fra waitingArea (altså er 
+ikke WA full lenger), imens Waitress venter når WA er tomt, og "vekkes" når en kunde legges inn i 
+WA (altså er ikke WA tomt lenger). 
+===================================================================================================

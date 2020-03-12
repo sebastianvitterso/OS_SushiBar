@@ -1,0 +1,497 @@
+10:49:01:49, Waitress fetched customer 0
+10:49:01:58, Waitress fetched customer 1
+10:49:01:177, Waitress fetched customer 2
+10:49:01:187, Customer 0 is ordering sushi. 
+
+10:49:01:192, Customer 1 is ordering sushi. 
+
+10:49:01:243, Customer 2 is ordering sushi. 
+
+10:49:01:299, Waitress fetched customer 3
+10:49:01:371, Customer 3 is ordering sushi. 
+
+10:49:01:427, Waitress fetched customer 4
+10:49:01:540, Customer 4 is ordering sushi. 
+
+10:49:01:546, Waitress fetched customer 5
+10:49:01:624, Customer 5 is ordering sushi. 
+
+10:49:01:670, Waitress fetched customer 6
+10:49:01:741, Customer 6 is ordering sushi. 
+
+10:49:03:700, Customer 0 is done eating. 
+
+10:49:03:701, Customer 1 is done eating. 
+
+10:49:03:749, Customer 2 is done eating. 
+
+10:49:03:885, Customer 3 is done eating. 
+
+10:49:04:63, Customer 4 is done eating. 
+
+10:49:04:128, Customer 5 is done eating. 
+
+10:49:04:249, Customer 6 is done eating. 
+
+10:49:21:334, Waitress fetched customer 0
+10:49:21:378, Waitress fetched customer 1
+10:49:21:441, Customer 0 is ordering sushi.
+10:49:21:445, Customer 1 is ordering sushi.
+10:49:21:499, Waitress fetched customer 2
+10:49:21:565, Customer 2 is ordering sushi.
+10:49:21:620, Waitress fetched customer 3
+10:49:21:683, Customer 3 is ordering sushi.
+10:49:21:741, Waitress fetched customer 4
+10:49:21:806, Customer 4 is ordering sushi.
+10:49:21:861, Waitress fetched customer 5
+10:49:21:925, Customer 5 is ordering sushi.
+10:49:21:982, Waitress fetched customer 6
+10:49:22:47, Customer 6 is ordering sushi.
+10:49:23:955, Customer 1 is done eating.
+10:49:23:958, Customer 0 is done eating.
+10:49:24:69, Customer 2 is done eating.
+10:49:24:187, Customer 3 is done eating.
+10:49:24:313, Customer 4 is done eating.
+10:49:24:429, Customer 5 is done eating.
+10:49:24:552, Customer 6 is done eating.
+10:50:22:39, Waitress fetched customer 0
+10:50:21:994, Door added customer.
+10:50:22:115, Customer 0 is ordering sushi.
+10:50:22:181, Waitress fetched customer 1
+10:50:22:183, Door added customer.
+10:50:22:244, Customer 1 is ordering sushi.
+10:50:22:313, Waitress fetched customer 2
+10:50:22:313, Door added customer.
+10:50:22:379, Customer 2 is ordering sushi.
+10:50:22:438, Waitress fetched customer 3
+10:50:22:440, Door added customer.
+10:50:22:505, Customer 3 is ordering sushi.
+10:50:22:568, Waitress fetched customer 4
+10:50:22:568, Door added customer.
+10:50:22:630, Customer 4 is ordering sushi.
+10:50:22:691, Door added customer.
+10:50:22:692, Waitress fetched customer 5
+10:50:22:757, Customer 5 is ordering sushi.
+10:50:22:817, Door added customer.
+10:50:22:817, Waitress fetched customer 6
+10:50:22:881, Customer 6 is ordering sushi.
+10:50:22:940, Door added customer.
+10:50:23:63, Door added customer.
+10:50:23:185, Door added customer.
+10:50:23:307, Door added customer.
+10:50:23:429, Door added customer.
+10:50:23:554, Door added customer.
+10:50:23:678, Door added customer.
+10:50:23:801, Door added customer.
+10:50:23:925, Door added customer.
+10:50:24:48, Door added customer.
+10:50:24:170, Door added customer.
+10:50:24:293, Door added customer.
+10:50:24:415, Door added customer.
+10:50:24:537, Door added customer.
+10:50:24:621, Customer 0 is done eating.
+10:50:24:660, Door added customer.
+10:50:24:749, Customer 1 is done eating.
+10:50:24:783, Door added customer.
+10:50:24:883, Customer 2 is done eating.
+10:50:24:906, Door added customer.
+10:50:25:15, Customer 3 is done eating.
+10:50:25:33, Door added customer.
+10:50:25:134, Customer 4 is done eating.
+10:50:25:155, Door added customer.
+10:50:25:260, Customer 5 is done eating.
+10:50:25:285, Door added customer.
+10:50:25:384, Customer 6 is done eating.
+10:50:25:408, Door added customer.
+10:50:25:537, Door added customer.
+10:50:25:658, Door added customer.
+10:50:25:780, Door added customer.
+10:50:25:906, Door added customer.
+10:50:26:29, Door added customer.
+10:50:26:169, Door added customer.
+10:50:26:293, Door added customer.
+10:50:26:489, Door added customer.
+10:50:26:613, Door added customer.
+10:50:26:735, Door added customer.
+10:50:26:858, Door added customer.
+10:50:26:991, Door added customer.
+10:50:27:126, Door added customer.
+10:50:27:256, Door added customer.
+10:50:27:379, Door added customer.
+10:50:27:501, Door added customer.
+10:50:27:625, Door added customer.
+10:50:27:748, Door added customer.
+10:50:27:869, Door added customer.
+10:50:27:992, Door added customer.
+10:50:28:115, Door added customer.
+10:50:28:237, Door added customer.
+10:50:28:360, Door added customer.
+10:50:28:483, Door added customer.
+10:50:28:606, Door added customer.
+10:50:28:729, Door added customer.
+10:50:28:851, Door added customer.
+10:50:28:976, Door added customer.
+10:50:29:98, Door added customer.
+10:50:29:220, Door added customer.
+10:50:29:343, Door added customer.
+10:50:29:468, Door added customer.
+10:50:29:592, Door added customer.
+10:50:29:714, Door added customer.
+10:50:29:838, Door added customer.
+10:50:29:960, Door added customer.
+10:50:30:85, Door added customer.
+10:50:30:211, Door added customer.
+10:50:30:335, Door added customer.
+10:50:30:458, Door added customer.
+10:50:30:584, Door added customer.
+10:50:30:709, Door added customer.
+10:50:30:831, Door added customer.
+10:50:30:956, Door added customer.
+10:50:31:80, Door added customer.
+10:50:31:204, Door added customer.
+10:50:31:328, Door added customer.
+10:50:31:453, Door added customer.
+10:50:31:575, Door added customer.
+10:50:31:697, Door added customer.
+10:50:31:819, Door added customer.
+10:50:31:941, Door added customer.
+10:50:32:63, Door added customer.
+10:50:32:186, Door added customer.
+10:51:39:608, Waitress fetched customer 0
+10:51:39:585, Door added customer.
+10:51:39:738, Customer 0 is ordering sushi.
+10:51:39:779, Waitress fetched customer 1
+10:51:39:783, Door added customer.
+10:51:39:844, Customer 1 is ordering sushi.
+10:51:39:913, Waitress fetched customer 2
+10:51:39:915, Door added customer.
+10:51:39:981, Customer 2 is ordering sushi.
+10:51:40:56, Waitress fetched customer 3
+10:51:40:56, Door added customer.
+10:51:40:138, Customer 3 is ordering sushi.
+10:51:40:189, Waitress fetched customer 4
+10:51:40:189, Door added customer.
+10:51:40:255, Customer 4 is ordering sushi.
+10:51:40:317, Door added customer.
+10:51:40:317, Waitress fetched customer 5
+10:51:40:394, Customer 5 is ordering sushi.
+10:51:40:453, Door added customer.
+10:51:40:453, Waitress fetched customer 6
+10:51:40:516, Customer 6 is ordering sushi.
+10:51:40:574, Door added customer.
+10:51:40:699, Door added customer.
+10:51:40:822, Door added customer.
+10:51:40:944, Door added customer.
+10:51:41:68, Door added customer.
+10:51:41:193, Door added customer.
+10:51:41:318, Door added customer.
+10:51:41:441, Door added customer.
+10:51:41:564, Door added customer.
+10:51:41:689, Door added customer.
+10:51:41:814, Door added customer.
+10:51:41:940, Door added customer.
+10:51:42:64, Door added customer.
+10:51:42:189, Door added customer.
+10:51:42:251, Customer 0 is done eating.
+10:51:42:314, Door added customer.
+10:51:42:372, Customer 1 is done eating.
+10:51:42:436, Door added customer.
+10:51:42:487, Customer 2 is done eating.
+10:51:42:558, Door added customer.
+10:51:42:668, Customer 3 is done eating.
+10:51:42:680, Door added customer.
+10:51:42:762, Customer 4 is done eating.
+10:51:42:802, Door added customer.
+10:51:42:897, Customer 5 is done eating.
+10:51:42:924, Door added customer.
+10:51:43:21, Customer 6 is done eating.
+10:53:51:23, Door added customer.
+10:53:51:30, Waitress fetched customer 0
+10:53:51:161, Customer 0 is ordering sushi.
+10:53:51:217, Waitress fetched customer 1
+10:53:51:217, Door added customer.
+10:53:51:283, Customer 1 is ordering sushi.
+10:53:51:344, Door added customer.
+10:53:51:344, Waitress fetched customer 2
+10:53:51:408, Customer 2 is ordering sushi.
+10:53:51:467, Waitress fetched customer 3
+10:53:51:470, Door added customer.
+10:53:51:534, Customer 3 is ordering sushi.
+10:53:51:603, Waitress fetched customer 4
+10:53:51:603, Door added customer.
+10:53:51:667, Customer 4 is ordering sushi.
+10:53:51:734, Door added customer.
+10:53:51:734, Waitress fetched customer 5
+10:53:51:798, Customer 5 is ordering sushi.
+10:53:51:858, Door added customer.
+10:53:51:859, Waitress fetched customer 6
+10:53:51:926, Customer 6 is ordering sushi.
+10:53:51:982, Door added customer.
+10:53:52:105, Door added customer.
+10:53:52:229, Door added customer.
+10:53:52:350, Door added customer.
+10:53:52:474, Door added customer.
+10:53:52:599, Door added customer.
+10:53:52:722, Door added customer.
+10:53:52:845, Door added customer.
+10:53:52:970, Door added customer.
+10:53:53:94, Door added customer.
+10:53:53:216, Door added customer.
+10:53:53:340, Door added customer.
+10:53:53:464, Door added customer.
+10:53:53:589, Door added customer.
+10:53:53:667, Customer 0 is done eating.
+10:53:53:711, Door added customer.
+10:53:53:793, Customer 1 is done eating.
+10:53:53:835, Door added customer.
+10:53:53:926, Customer 2 is done eating.
+10:53:53:957, Door added customer.
+10:53:54:39, Customer 3 is done eating.
+10:53:54:81, Door added customer.
+10:53:54:170, Customer 4 is done eating.
+10:53:54:207, Door added customer.
+10:53:54:301, Customer 5 is done eating.
+10:53:54:332, Door added customer.
+10:53:54:430, Customer 6 is done eating.
+11:00:46:153, Waitress fetched customer 0
+11:00:46:109, Door added customer.
+11:00:46:241, Thread-6: Customer 0 is ordering sushi.
+11:00:46:297, Door added customer.
+11:00:46:298, Waitress fetched customer 1
+11:00:46:380, Thread-4: Customer 1 is ordering sushi.
+11:00:46:430, Waitress fetched customer 2
+11:00:46:434, Door added customer.
+11:00:46:497, Thread-0: Customer 2 is ordering sushi.
+11:00:46:561, Waitress fetched customer 3
+11:00:46:563, Door added customer.
+11:00:46:630, Thread-3: Customer 3 is ordering sushi.
+11:00:46:691, Waitress fetched customer 4
+11:00:46:695, Door added customer.
+11:00:46:764, Thread-2: Customer 4 is ordering sushi.
+11:00:46:824, Waitress fetched customer 5
+11:00:46:824, Door added customer.
+11:00:46:894, Thread-1: Customer 5 is ordering sushi.
+11:00:46:954, Door added customer.
+11:00:46:954, Waitress fetched customer 6
+11:00:47:17, Thread-5: Customer 6 is ordering sushi.
+11:00:47:77, Door added customer.
+11:00:47:201, Door added customer.
+11:00:47:323, Door added customer.
+11:00:47:446, Door added customer.
+11:00:47:570, Door added customer.
+11:00:47:694, Door added customer.
+11:00:47:818, Door added customer.
+11:00:47:944, Door added customer.
+11:00:48:69, Door added customer.
+11:00:48:193, Door added customer.
+11:00:48:317, Door added customer.
+11:00:48:441, Door added customer.
+11:00:48:565, Door added customer.
+11:00:48:690, Door added customer.
+11:00:48:751, Thread-6: Customer 0 is now eating.
+11:00:48:812, Door added customer.
+11:00:48:884, Thread-4: Customer 1 is now eating.
+11:00:48:936, Door added customer.
+11:00:49:03, Thread-0: Customer 2 is now eating.
+11:00:49:59, Door added customer.
+11:00:49:136, Thread-3: Customer 3 is now eating.
+11:00:49:182, Door added customer.
+11:00:49:271, Thread-2: Customer 4 is now eating.
+11:00:49:304, Door added customer.
+11:00:49:398, Thread-1: Customer 5 is now eating.
+11:00:49:429, Door added customer.
+11:00:49:521, Thread-5: Customer 6 is now eating.
+11:08:43:06, Waitress fetched customer 0
+11:08:42:986, Door added customer.
+11:08:43:107, Thread-6: Customer 0 is ordering sushi.
+11:08:43:166, Waitress fetched customer 1
+11:08:43:167, Door added customer.
+11:08:43:233, Thread-3: Customer 1 is ordering sushi.
+11:08:43:295, Waitress fetched customer 2
+11:08:43:299, Door added customer.
+11:08:43:361, Thread-0: Customer 2 is ordering sushi.
+11:08:43:423, Door added customer.
+11:08:43:423, Waitress fetched customer 3
+11:08:43:489, Thread-2: Customer 3 is ordering sushi.
+11:08:43:549, Waitress fetched customer 4
+11:08:43:549, Door added customer.
+11:08:43:613, Thread-1: Customer 4 is ordering sushi.
+11:08:43:673, Waitress fetched customer 5
+11:08:43:673, Door added customer.
+11:08:43:737, Thread-5: Customer 5 is ordering sushi.
+11:08:43:797, Waitress fetched customer 6
+11:08:43:797, Door added customer.
+11:08:43:862, Thread-4: Customer 6 is ordering sushi.
+11:08:43:921, Door added customer.
+11:08:44:43, Door added customer.
+11:08:44:167, Door added customer.
+11:08:44:289, Door added customer.
+11:08:44:411, Door added customer.
+11:08:44:538, Door added customer.
+11:08:44:664, Door added customer.
+11:08:44:788, Door added customer.
+11:08:44:915, Door added customer.
+11:08:45:40, Door added customer.
+11:08:45:162, Door added customer.
+11:08:45:283, Door added customer.
+11:08:45:406, Door added customer.
+11:08:45:531, Door added customer.
+11:08:45:613, Thread-6: Customer 0 is now eating.
+11:08:45:654, Door added customer.
+11:08:45:738, Thread-3: Customer 1 is now eating.
+11:08:45:778, Door added customer.
+11:08:45:866, Thread-0: Customer 2 is now eating.
+11:08:45:901, Door added customer.
+11:08:45:996, Thread-2: Customer 3 is now eating.
+11:08:46:23, Door added customer.
+11:08:46:117, Thread-1: Customer 4 is now eating.
+11:08:46:145, Door added customer.
+11:08:46:239, Thread-5: Customer 5 is now eating.
+11:08:46:271, Door added customer.
+11:08:46:364, Thread-4: Customer 6 is now eating.
+11:14:14:54, Waitress fetched customer 0
+11:14:14:16, Door added customer.
+11:14:14:218, Thread-4: Customer 0 is ordering sushi.
+11:14:14:272, Waitress fetched customer 1
+11:14:14:276, Door added customer.
+11:14:14:381, Thread-6: Customer 1 is ordering sushi.
+11:14:14:435, Waitress fetched customer 2
+11:14:14:435, Door added customer.
+11:14:14:502, Thread-5: Customer 2 is ordering sushi.
+11:14:14:565, Waitress fetched customer 3
+11:14:14:567, Door added customer.
+11:14:14:641, Thread-3: Customer 3 is ordering sushi.
+11:14:14:695, Door added customer.
+11:14:14:695, Waitress fetched customer 4
+11:14:14:769, Thread-2: Customer 4 is ordering sushi.
+11:14:14:822, Waitress fetched customer 5
+11:14:14:822, Door added customer.
+11:14:14:900, Thread-0: Customer 5 is ordering sushi.
+11:14:14:961, Door added customer.
+11:14:14:961, Waitress fetched customer 6
+11:14:15:30, Thread-1: Customer 6 is ordering sushi.
+11:14:15:87, Door added customer.
+11:14:15:212, Door added customer.
+11:14:15:336, Door added customer.
+11:14:15:460, Door added customer.
+11:14:15:583, Door added customer.
+11:14:15:705, Door added customer.
+11:14:15:828, Door added customer.
+11:14:15:950, Door added customer.
+11:14:16:73, Door added customer.
+11:14:16:196, Door added customer.
+11:14:16:321, Door added customer.
+11:14:16:443, Door added customer.
+11:14:16:568, Door added customer.
+11:14:16:689, Door added customer.
+11:14:16:812, Door added customer.
+11:14:16:814, Thread-4: Customer 0 is now eating.
+11:14:16:888, Thread-6: Customer 1 is now eating.
+11:14:16:936, Door added customer.
+11:14:17:06, Thread-5: Customer 2 is now eating.
+11:14:17:59, Door added customer.
+11:14:17:149, Thread-3: Customer 3 is now eating.
+11:14:17:181, Door added customer.
+11:14:17:289, Thread-2: Customer 4 is now eating.
+11:14:17:307, Door added customer.
+11:14:17:403, Thread-0: Customer 5 is now eating.
+11:14:17:436, Door added customer.
+11:14:17:534, Thread-1: Customer 6 is now eating.
+11:16:39:526, Door added customer.
+11:16:39:571, Waitress fetched customer 0
+11:16:39:648, Thread-2: Customer 0 is now eating.
+11:16:39:706, Waitress fetched customer 1
+11:16:39:713, Door added customer.
+11:16:39:788, Thread-5: Customer 1 is now eating.
+11:16:39:862, Waitress fetched customer 2
+11:16:39:866, Door added customer.
+11:16:39:930, Thread-6: Customer 2 is now eating.
+11:16:39:992, Waitress fetched customer 3
+11:16:39:998, Door added customer.
+11:16:40:69, Thread-3: Customer 3 is now eating.
+11:16:40:134, Waitress fetched customer 4
+11:16:40:138, Door added customer.
+11:16:40:219, Thread-0: Customer 4 is now eating.
+11:16:40:288, Waitress fetched customer 5
+11:16:40:288, Door added customer.
+11:16:40:350, Thread-4: Customer 5 is now eating.
+11:16:40:411, Door added customer.
+11:16:40:411, Waitress fetched customer 6
+11:16:40:482, Thread-1: Customer 6 is now eating.
+11:16:40:536, Door added customer.
+11:16:40:659, Door added customer.
+11:16:40:782, Door added customer.
+11:16:40:904, Door added customer.
+11:16:41:27, Door added customer.
+11:16:41:149, Door added customer.
+11:16:41:271, Door added customer.
+11:16:41:394, Door added customer.
+11:16:41:516, Door added customer.
+11:16:41:638, Door added customer.
+11:16:41:761, Door added customer.
+11:16:41:887, Door added customer.
+11:16:42:10, Door added customer.
+11:16:42:132, Door added customer.
+11:16:42:171, Thread-2: Customer 0 is now leaving.
+11:16:42:255, Door added customer.
+11:16:42:299, Thread-5: Customer 1 is now leaving.
+11:16:42:377, Door added customer.
+11:16:42:433, Thread-6: Customer 2 is now leaving.
+11:16:42:500, Door added customer.
+11:16:42:594, Thread-3: Customer 3 is now leaving.
+11:16:42:622, Door added customer.
+11:16:42:722, Thread-0: Customer 4 is now leaving.
+11:16:42:746, Door added customer.
+11:16:42:854, Thread-4: Customer 5 is now leaving.
+11:16:42:871, Door added customer.
+11:16:42:987, Thread-1: Customer 6 is now leaving.
+11:16:44:439, *** DOOR IS NOW CLOSED ***
+11:18:39:291, Door added customer 0 to waitingarea
+11:18:39:291, Waitress fetched customer 0
+11:18:39:427, Thread-0: Customer 0 is now eating.
+11:18:39:485, Waitress fetched customer 1
+11:18:39:485, Door added customer 1 to waitingarea
+11:18:39:550, Thread-1: Customer 1 is now eating.
+11:18:39:614, Waitress fetched customer 2
+11:18:39:618, Door added customer 2 to waitingarea
+11:18:39:680, Thread-6: Customer 2 is now eating.
+11:18:39:743, Waitress fetched customer 3
+11:18:39:744, Door added customer 3 to waitingarea
+11:18:39:813, Thread-2: Customer 3 is now eating.
+11:18:39:872, Door added customer 4 to waitingarea
+11:18:39:873, Waitress fetched customer 4
+11:18:39:943, Thread-5: Customer 4 is now eating.
+11:18:40:03, Door added customer 5 to waitingarea
+11:18:40:03, Waitress fetched customer 5
+11:18:40:65, Thread-3: Customer 5 is now eating.
+11:18:40:126, Waitress fetched customer 6
+11:18:40:126, Door added customer 6 to waitingarea
+11:18:40:194, Thread-4: Customer 6 is now eating.
+11:18:40:255, Door added customer 7 to waitingarea
+11:18:40:382, Door added customer 8 to waitingarea
+11:18:40:505, Door added customer 9 to waitingarea
+11:18:40:630, Door added customer 10 to waitingarea
+11:18:40:754, Door added customer 11 to waitingarea
+11:18:40:880, Door added customer 12 to waitingarea
+11:18:41:02, Door added customer 13 to waitingarea
+11:18:41:125, Door added customer 14 to waitingarea
+11:18:41:249, Door added customer 15 to waitingarea
+11:18:41:373, Door added customer 16 to waitingarea
+11:18:41:500, Door added customer 17 to waitingarea
+11:18:41:625, Door added customer 18 to waitingarea
+11:18:41:748, Door added customer 19 to waitingarea
+11:18:41:871, Door added customer 20 to waitingarea
+11:18:41:943, Thread-0: Customer 0 is now leaving.
+11:18:41:994, Door added customer 21 to waitingarea
+11:18:42:53, Thread-1: Customer 1 is now leaving.
+11:18:42:123, Door added customer 22 to waitingarea
+11:18:42:186, Thread-6: Customer 2 is now leaving.
+11:18:42:249, Door added customer 23 to waitingarea
+11:18:42:329, Thread-2: Customer 3 is now leaving.
+11:18:42:371, Door added customer 24 to waitingarea
+11:18:42:447, Thread-5: Customer 4 is now leaving.
+11:18:42:501, Door added customer 25 to waitingarea
+11:18:42:568, Thread-3: Customer 5 is now leaving.
+11:18:42:626, Door added customer 26 to waitingarea
+11:18:42:697, Thread-4: Customer 6 is now leaving.
+11:18:44:195, *** DOOR IS NOW CLOSED ***

@@ -20,17 +20,8 @@ public class Waitress implements Runnable {
      * instance.
      */
     @Override
-    public  void run() {
+    public synchronized void run() {
         while (waitingArea.getCurrentSize() > 0 || SushiBar.isOpen) {
-            synchronized(waitingArea) {
-                while (waitingArea.isEmpty()) {
-                    try {
-                        waitingArea.wait();
-                    } catch (InterruptedException e) { 
-                        e.printStackTrace();
-                    }
-                }
-            }
             currentCustomer = waitingArea.fetch();
             if(currentCustomer == null) continue;
             
@@ -43,6 +34,14 @@ public class Waitress implements Runnable {
             currentCustomer.order();
             SushiBar.write(Thread.currentThread().getName() +  String.format(": Waitress let customer %d go", currentCustomer.getCustomerID()));
             currentCustomer = null;
+
+            while (waitingArea.isEmpty() && SushiBar.isOpen) {
+                try {
+                    waitingArea.wait();
+                } catch (InterruptedException e) { 
+                    e.printStackTrace();
+                }
+            }
         }
     }
 }

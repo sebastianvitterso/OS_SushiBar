@@ -25,25 +25,29 @@ public class Door implements Runnable {
      * waiting area.
      */
     @Override
-    public synchronized void run() {
-        waitingArea.setDoor(this);
+    public void run() {
         while (SushiBar.isOpen) {
             try {
-                wait(SushiBar.doorWait);
+                Thread.sleep(SushiBar.doorWait);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-            while (waitingArea.isFull()) {
-                try {
-                    waitingArea.wait();
-                } catch (InterruptedException e) {
-                    e.printStackTrace();
+            if(!waitingArea.isFull()) {
+                Customer customer = new Customer();
+                waitingArea.enter(customer);
+                SushiBar.write(Thread.currentThread().getName() + String.format(": Door added customer %d to waitingarea", customer.getCustomerID()));
+            } else {
+                while (waitingArea.isFull()) {
+                    try {
+                        synchronized(waitingArea) {
+                            waitingArea.wait();
+                        }
+                    } catch (InterruptedException e) {
+                        e.printStackTrace();
+                    }
                 }
             }
-            Customer customer = new Customer();
-            waitingArea.enter(customer);
-            SushiBar.write(Thread.currentThread().getName() + String.format(": Door added customer %d to waitingarea", customer.getCustomerID()));
-        }
+        } 
 
         SushiBar.write(Thread.currentThread().getName() + ": *** DOOR IS NOW CLOSED ***");
     }

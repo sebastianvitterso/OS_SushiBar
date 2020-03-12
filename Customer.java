@@ -18,7 +18,7 @@ public class Customer {
      * the assignment.
      */
     public synchronized void order() {
-        SushiBar.write(Thread.currentThread().getName() +  String.format("Customer %d is now eating.", id));
+        SushiBar.write(Thread.currentThread().getName() +  String.format(": Customer %d is now eating.", id));
         int servedOrders = random.nextInt(SushiBar.maxOrder);
         int takeAwayOrders = random.nextInt(SushiBar.maxOrder);
         SushiBar.servedOrders.add(servedOrders);
@@ -29,7 +29,7 @@ public class Customer {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        SushiBar.write(Thread.currentThread().getName() +  String.format("Customer %d is now leaving.", id));
+        SushiBar.write(Thread.currentThread().getName() +  String.format(": Customer %d is now leaving.", id));
         return;
     }
 
